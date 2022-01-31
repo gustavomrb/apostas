@@ -1,0 +1,3550 @@
+[
+  {
+    "id": "1630173",
+    "nome": "P.Achiuwa",
+    "nomeCompleto": "Precious Achiuwa",
+    "time": "TOR"
+  },
+  {
+    "id": "203500",
+    "nome": "S.Adams",
+    "nomeCompleto": "Steven Adams",
+    "time": "MEM"
+  },
+  {
+    "id": "1628389",
+    "nome": "B.Adebayo",
+    "nomeCompleto": "Bam Adebayo",
+    "time": "MIA"
+  },
+  {
+    "id": "1630583",
+    "nome": "S.Aldama",
+    "nomeCompleto": "Santi Aldama",
+    "time": "MEM"
+  },
+  {
+    "id": "200746",
+    "nome": "L.Aldridge",
+    "nomeCompleto": "LaMarcus Aldridge",
+    "time": "BKN"
+  },
+  {
+    "id": "1629638",
+    "nome": "N.Alexander-Walker",
+    "nomeCompleto": "Nickeil Alexander-Walker",
+    "time": "NOP"
+  },
+  {
+    "id": "1628960",
+    "nome": "G.Allen",
+    "nomeCompleto": "Grayson Allen",
+    "time": "MIL"
+  },
+  {
+    "id": "1628386",
+    "nome": "J.Allen",
+    "nomeCompleto": "Jarrett Allen",
+    "time": "CLE"
+  },
+  {
+    "id": "1630631",
+    "nome": "J.Alvarado",
+    "nomeCompleto": "Jose Alvarado",
+    "time": "NOP"
+  },
+  {
+    "id": "1626147",
+    "nome": "J.Anderson",
+    "nomeCompleto": "Justin Anderson"
+  },
+  {
+    "id": "203937",
+    "nome": "K.Anderson",
+    "nomeCompleto": "Kyle Anderson",
+    "time": "MEM"
+  },
+  {
+    "id": "203507",
+    "nome": "G.Antetokounmpo",
+    "nomeCompleto": "Giannis Antetokounmpo",
+    "time": "MIL"
+  },
+  {
+    "id": "203648",
+    "nome": "T.Antetokounmpo",
+    "nomeCompleto": "Thanasis Antetokounmpo",
+    "time": "MIL"
+  },
+  {
+    "id": "2546",
+    "nome": "C.Anthony",
+    "nomeCompleto": "Carmelo Anthony",
+    "time": "LAL"
+  },
+  {
+    "id": "1630175",
+    "nome": "C.Anthony",
+    "nomeCompleto": "Cole Anthony",
+    "time": "ORL"
+  },
+  {
+    "id": "1628384",
+    "nome": "O.Anunoby",
+    "nomeCompleto": "OG Anunoby",
+    "time": "TOR"
+  },
+  {
+    "id": "1627853",
+    "nome": "R.Arcidiacono",
+    "nomeCompleto": "Ryan Arcidiacono",
+    "time": "NYK"
+  },
+  {
+    "id": "2772",
+    "nome": "T.Ariza",
+    "nomeCompleto": "Trevor Ariza",
+    "time": "LAL"
+  },
+  {
+    "id": "201571",
+    "nome": "D.Augustin",
+    "nomeCompleto": "D.J. Augustin",
+    "time": "HOU"
+  },
+  {
+    "id": "1630166",
+    "nome": "D.Avdija",
+    "nomeCompleto": "Deni Avdija",
+    "time": "WAS"
+  },
+  {
+    "id": "1630555",
+    "nome": "J.Ayayi",
+    "nomeCompleto": "Joel Ayayi",
+    "time": "WAS"
+  },
+  {
+    "id": "1629028",
+    "nome": "D.Ayton",
+    "nomeCompleto": "Deandre Ayton",
+    "time": "PHX"
+  },
+  {
+    "id": "1628962",
+    "nome": "U.Azubuike",
+    "nomeCompleto": "Udoka Azubuike",
+    "time": "UTA"
+  },
+  {
+    "id": "1628963",
+    "nome": "M.Bagley",
+    "nomeCompleto": "Marvin Bagley III",
+    "time": "SAC"
+  },
+  {
+    "id": "1630163",
+    "nome": "L.Ball",
+    "nomeCompleto": "LaMelo Ball",
+    "time": "CHA"
+  },
+  {
+    "id": "1628366",
+    "nome": "L.Ball",
+    "nomeCompleto": "Lonzo Ball",
+    "time": "CHI"
+  },
+  {
+    "id": "1628964",
+    "nome": "M.Bamba",
+    "nomeCompleto": "Mo Bamba",
+    "time": "ORL"
+  },
+  {
+    "id": "1630217",
+    "nome": "D.Bane",
+    "nomeCompleto": "Desmond Bane",
+    "time": "MEM"
+  },
+  {
+    "id": "1630625",
+    "nome": "D.Banton",
+    "nomeCompleto": "Dalano Banton",
+    "time": "TOR"
+  },
+  {
+    "id": "1627760",
+    "nome": "C.Barber",
+    "nomeCompleto": "Cat Barber"
+  },
+  {
+    "id": "203084",
+    "nome": "H.Barnes",
+    "nomeCompleto": "Harrison Barnes",
+    "time": "SAC"
+  },
+  {
+    "id": "1630567",
+    "nome": "S.Barnes",
+    "nomeCompleto": "Scottie Barnes",
+    "time": "TOR"
+  },
+  {
+    "id": "1629628",
+    "nome": "R.Barrett",
+    "nomeCompleto": "RJ Barrett",
+    "time": "NYK"
+  },
+  {
+    "id": "203115",
+    "nome": "W.Barton",
+    "nomeCompleto": "Will Barton",
+    "time": "DEN"
+  },
+  {
+    "id": "1628238",
+    "nome": "P.Bass",
+    "nomeCompleto": "Paris Bass"
+  },
+  {
+    "id": "1629646",
+    "nome": "C.Bassey",
+    "nomeCompleto": "Charles Bassey",
+    "time": "PHI"
+  },
+  {
+    "id": "1628966",
+    "nome": "K.Bates-Diop",
+    "nomeCompleto": "Keita Bates-Diop",
+    "time": "SAS"
+  },
+  {
+    "id": "201587",
+    "nome": "N.Batum",
+    "nomeCompleto": "Nicolas Batum",
+    "time": "LAC"
+  },
+  {
+    "id": "203145",
+    "nome": "K.Bazemore",
+    "nomeCompleto": "Kent Bazemore",
+    "time": "LAL"
+  },
+  {
+    "id": "1629647",
+    "nome": "D.Bazley",
+    "nomeCompleto": "Darius Bazley",
+    "time": "OKC"
+  },
+  {
+    "id": "203078",
+    "nome": "B.Beal",
+    "nomeCompleto": "Bradley Beal",
+    "time": "WAS"
+  },
+  {
+    "id": "1627736",
+    "nome": "M.Beasley",
+    "nomeCompleto": "Malik Beasley",
+    "time": "MIN"
+  },
+  {
+    "id": "1628395",
+    "nome": "J.Bell",
+    "nomeCompleto": "Jordan Bell"
+  },
+  {
+    "id": "1627761",
+    "nome": "D.Bembry",
+    "nomeCompleto": "DeAndre' Bembry",
+    "time": "BKN"
+  },
+  {
+    "id": "202722",
+    "nome": "D.Bertans",
+    "nomeCompleto": "Davis Bertans",
+    "time": "WAS"
+  },
+  {
+    "id": "201976",
+    "nome": "P.Beverley",
+    "nomeCompleto": "Patrick Beverley",
+    "time": "MIN"
+  },
+  {
+    "id": "1630180",
+    "nome": "S.Bey",
+    "nomeCompleto": "Saddiq Bey",
+    "time": "DET"
+  },
+  {
+    "id": "203920",
+    "nome": "K.Birch",
+    "nomeCompleto": "Khem Birch",
+    "time": "TOR"
+  },
+  {
+    "id": "1629048",
+    "nome": "G.Bitadze",
+    "nomeCompleto": "Goga Bitadze",
+    "time": "IND"
+  },
+  {
+    "id": "202687",
+    "nome": "B.Biyombo",
+    "nomeCompleto": "Bismack Biyombo",
+    "time": "PHX"
+  },
+  {
+    "id": "202357",
+    "nome": "N.Bjelica",
+    "nomeCompleto": "Nemanja Bjelica",
+    "time": "GSW"
+  },
+  {
+    "id": "202339",
+    "nome": "E.Bledsoe",
+    "nomeCompleto": "Eric Bledsoe",
+    "time": "LAC"
+  },
+  {
+    "id": "1629833",
+    "nome": "K.Blevins",
+    "nomeCompleto": "Keljin Blevins",
+    "time": "POR"
+  },
+  {
+    "id": "203992",
+    "nome": "B.Bogdanovic",
+    "nomeCompleto": "Bogdan Bogdanovic",
+    "time": "ATL"
+  },
+  {
+    "id": "202711",
+    "nome": "B.Bogdanovic",
+    "nomeCompleto": "Bojan Bogdanovic",
+    "time": "UTA"
+  },
+  {
+    "id": "1629626",
+    "nome": "B.Bol",
+    "nomeCompleto": "Bol Bol",
+    "time": "BOS"
+  },
+  {
+    "id": "1630195",
+    "nome": "L.Bolmaro",
+    "nomeCompleto": "Leandro Bolmaro",
+    "time": "MIN"
+  },
+  {
+    "id": "1629067",
+    "nome": "I.Bonga",
+    "nomeCompleto": "Isaac Bonga",
+    "time": "TOR"
+  },
+  {
+    "id": "1626164",
+    "nome": "D.Booker",
+    "nomeCompleto": "Devin Booker",
+    "time": "PHX"
+  },
+  {
+    "id": "1630527",
+    "nome": "B.Boston",
+    "nomeCompleto": "Brandon Boston Jr.",
+    "time": "LAC"
+  },
+  {
+    "id": "1628449",
+    "nome": "C.Boucher",
+    "nomeCompleto": "Chris Boucher",
+    "time": "TOR"
+  },
+  {
+    "id": "1630547",
+    "nome": "J.Bouknight",
+    "nomeCompleto": "James Bouknight",
+    "time": "CHA"
+  },
+  {
+    "id": "202340",
+    "nome": "A.Bradley",
+    "nomeCompleto": "Avery Bradley",
+    "time": "LAL"
+  },
+  {
+    "id": "1628396",
+    "nome": "T.Bradley",
+    "nomeCompleto": "Tony Bradley",
+    "time": "CHI"
+  },
+  {
+    "id": "1629649",
+    "nome": "I.Brazdeikis",
+    "nomeCompleto": "Ignas Brazdeikis",
+    "time": "ORL"
+  },
+  {
+    "id": "1628969",
+    "nome": "M.Bridges",
+    "nomeCompleto": "Mikal Bridges",
+    "time": "PHX"
+  },
+  {
+    "id": "1628970",
+    "nome": "M.Bridges",
+    "nomeCompleto": "Miles Bridges",
+    "time": "CHA"
+  },
+  {
+    "id": "1629052",
+    "nome": "O.Brissett",
+    "nomeCompleto": "Oshae Brissett",
+    "time": "IND"
+  },
+  {
+    "id": "1627763",
+    "nome": "M.Brogdon",
+    "nomeCompleto": "Malcolm Brogdon",
+    "time": "IND"
+  },
+  {
+    "id": "1629717",
+    "nome": "A.Brooks",
+    "nomeCompleto": "Armoni Brooks",
+    "time": "HOU"
+  },
+  {
+    "id": "1628415",
+    "nome": "D.Brooks",
+    "nomeCompleto": "Dillon Brooks",
+    "time": "MEM"
+  },
+  {
+    "id": "1628971",
+    "nome": "B.Brown",
+    "nomeCompleto": "Bruce Brown",
+    "time": "BKN"
+  },
+  {
+    "id": "1627759",
+    "nome": "J.Brown",
+    "nomeCompleto": "Jaylen Brown",
+    "time": "BOS"
+  },
+  {
+    "id": "1629650",
+    "nome": "M.Brown",
+    "nomeCompleto": "Moses Brown",
+    "time": "DAL"
+  },
+  {
+    "id": "1628425",
+    "nome": "S.Brown",
+    "nomeCompleto": "Sterling Brown",
+    "time": "DAL"
+  },
+  {
+    "id": "1630535",
+    "nome": "G.Brown",
+    "nomeCompleto": "Greg Brown III",
+    "time": "POR"
+  },
+  {
+    "id": "1629718",
+    "nome": "C.Brown",
+    "nomeCompleto": "Charlie Brown Jr.",
+    "time": "PHI"
+  },
+  {
+    "id": "1630602",
+    "nome": "C.Brown",
+    "nomeCompleto": "Chaundee Brown Jr."
+  },
+  {
+    "id": "1628972",
+    "nome": "T.Brown",
+    "nomeCompleto": "Troy Brown Jr.",
+    "time": "CHI"
+  },
+  {
+    "id": "1628973",
+    "nome": "J.Brunson",
+    "nomeCompleto": "Jalen Brunson",
+    "time": "DAL"
+  },
+  {
+    "id": "1628418",
+    "nome": "T.Bryant",
+    "nomeCompleto": "Thomas Bryant",
+    "time": "WAS"
+  },
+  {
+    "id": "1629783",
+    "nome": "S.Buchanan",
+    "nomeCompleto": "Shaq Buchanan"
+  },
+  {
+    "id": "203493",
+    "nome": "R.Bullock",
+    "nomeCompleto": "Reggie Bullock",
+    "time": "DAL"
+  },
+  {
+    "id": "203504",
+    "nome": "T.Burke",
+    "nomeCompleto": "Trey Burke",
+    "time": "DAL"
+  },
+  {
+    "id": "202692",
+    "nome": "A.Burks",
+    "nomeCompleto": "Alec Burks",
+    "time": "NYK"
+  },
+  {
+    "id": "1630215",
+    "nome": "J.Butler",
+    "nomeCompleto": "Jared Butler",
+    "time": "UTA"
+  },
+  {
+    "id": "202710",
+    "nome": "J.Butler",
+    "nomeCompleto": "Jimmy Butler",
+    "time": "MIA"
+  },
+  {
+    "id": "1629719",
+    "nome": "D.Cacok",
+    "nomeCompleto": "Devontae Cacok",
+    "time": "SAS"
+  },
+  {
+    "id": "203484",
+    "nome": "K.Caldwell-Pope",
+    "nomeCompleto": "Kentavious Caldwell-Pope",
+    "time": "WAS"
+  },
+  {
+    "id": "1630267",
+    "nome": "F.Campazzo",
+    "nomeCompleto": "Facundo Campazzo",
+    "time": "DEN"
+  },
+  {
+    "id": "1628427",
+    "nome": "V.Cancar",
+    "nomeCompleto": "Vlatko Cancar",
+    "time": "DEN"
+  },
+  {
+    "id": "203991",
+    "nome": "C.Capela",
+    "nomeCompleto": "Clint Capela",
+    "time": "ATL"
+  },
+  {
+    "id": "1630176",
+    "nome": "V.Carey",
+    "nomeCompleto": "Vernon Carey Jr.",
+    "time": "CHA"
+  },
+  {
+    "id": "1628975",
+    "nome": "J.Carter",
+    "nomeCompleto": "Jevon Carter",
+    "time": "BKN"
+  },
+  {
+    "id": "1628976",
+    "nome": "W.Carter",
+    "nomeCompleto": "Wendell Carter Jr.",
+    "time": "ORL"
+  },
+  {
+    "id": "203487",
+    "nome": "M.Carter-Williams",
+    "nomeCompleto": "Michael Carter-Williams",
+    "time": "ORL"
+  },
+  {
+    "id": "1627936",
+    "nome": "A.Caruso",
+    "nomeCompleto": "Alex Caruso",
+    "time": "CHI"
+  },
+  {
+    "id": "1626161",
+    "nome": "W.Cauley-Stein",
+    "nomeCompleto": "Willie Cauley-Stein"
+  },
+  {
+    "id": "1629958",
+    "nome": "A.Caver",
+    "nomeCompleto": "Ahmad Caver"
+  },
+  {
+    "id": "1630551",
+    "nome": "J.Champagnie",
+    "nomeCompleto": "Justin Champagnie",
+    "time": "TOR"
+  },
+  {
+    "id": "1629597",
+    "nome": "Z.Cheatham",
+    "nomeCompleto": "Zylan Cheatham"
+  },
+  {
+    "id": "1629185",
+    "nome": "C.Chiozza",
+    "nomeCompleto": "Chris Chiozza",
+    "time": "GSW"
+  },
+  {
+    "id": "1627737",
+    "nome": "M.Chriss",
+    "nomeCompleto": "Marquese Chriss",
+    "time": "DAL"
+  },
+  {
+    "id": "1630528",
+    "nome": "J.Christopher",
+    "nomeCompleto": "Josh Christopher",
+    "time": "HOU"
+  },
+  {
+    "id": "1629109",
+    "nome": "G.Clark",
+    "nomeCompleto": "Gary Clark",
+    "time": "NOP"
+  },
+  {
+    "id": "1629634",
+    "nome": "B.Clarke",
+    "nomeCompleto": "Brandon Clarke",
+    "time": "MEM"
+  },
+  {
+    "id": "203903",
+    "nome": "J.Clarkson",
+    "nomeCompleto": "Jordan Clarkson",
+    "time": "UTA"
+  },
+  {
+    "id": "1629651",
+    "nome": "N.Claxton",
+    "nomeCompleto": "Nic Claxton",
+    "time": "BKN"
+  },
+  {
+    "id": "1629599",
+    "nome": "A.Coffey",
+    "nomeCompleto": "Amir Coffey",
+    "time": "LAC"
+  },
+  {
+    "id": "1628381",
+    "nome": "J.Collins",
+    "nomeCompleto": "John Collins",
+    "time": "ATL"
+  },
+  {
+    "id": "1628380",
+    "nome": "Z.Collins",
+    "nomeCompleto": "Zach Collins",
+    "time": "SAS"
+  },
+  {
+    "id": "201954",
+    "nome": "D.Collison",
+    "nomeCompleto": "Darren Collison"
+  },
+  {
+    "id": "201144",
+    "nome": "M.Conley",
+    "nomeCompleto": "Mike Conley",
+    "time": "UTA"
+  },
+  {
+    "id": "1626192",
+    "nome": "P.Connaughton",
+    "nomeCompleto": "Pat Connaughton",
+    "time": "MIL"
+  },
+  {
+    "id": "1629076",
+    "nome": "T.Cook",
+    "nomeCompleto": "Tyler Cook",
+    "time": "CHI"
+  },
+  {
+    "id": "1630536",
+    "nome": "S.Cooper",
+    "nomeCompleto": "Sharife Cooper",
+    "time": "ATL"
+  },
+  {
+    "id": "1627822",
+    "nome": "P.Cornelie",
+    "nomeCompleto": "Petr Cornelie"
+  },
+  {
+    "id": "202326",
+    "nome": "D.Cousins",
+    "nomeCompleto": "DeMarcus Cousins",
+    "time": "DEN"
+  },
+  {
+    "id": "203496",
+    "nome": "R.Covington",
+    "nomeCompleto": "Robert Covington",
+    "time": "POR"
+  },
+  {
+    "id": "1628470",
+    "nome": "T.Craig",
+    "nomeCompleto": "Torrey Craig",
+    "time": "IND"
+  },
+  {
+    "id": "203109",
+    "nome": "J.Crowder",
+    "nomeCompleto": "Jae Crowder",
+    "time": "PHX"
+  },
+  {
+    "id": "1629633",
+    "nome": "J.Culver",
+    "nomeCompleto": "Jarrett Culver",
+    "time": "MEM"
+  },
+  {
+    "id": "1629600",
+    "nome": "J.Cumberland",
+    "nomeCompleto": "Jarron Cumberland"
+  },
+  {
+    "id": "1630595",
+    "nome": "C.Cunningham",
+    "nomeCompleto": "Cade Cunningham",
+    "time": "DET"
+  },
+  {
+    "id": "203552",
+    "nome": "S.Curry",
+    "nomeCompleto": "Seth Curry",
+    "time": "PHI"
+  },
+  {
+    "id": "201939",
+    "nome": "S.Curry",
+    "nomeCompleto": "Stephen Curry",
+    "time": "GSW"
+  },
+  {
+    "id": "203076",
+    "nome": "A.Davis",
+    "nomeCompleto": "Anthony Davis",
+    "time": "LAL"
+  },
+  {
+    "id": "202334",
+    "nome": "E.Davis",
+    "nomeCompleto": "Ed Davis",
+    "time": "CLE"
+  },
+  {
+    "id": "1629056",
+    "nome": "T.Davis",
+    "nomeCompleto": "Terence Davis",
+    "time": "SAC"
+  },
+  {
+    "id": "1629602",
+    "nome": "J.DeLaurier",
+    "nomeCompleto": "Javin DeLaurier"
+  },
+  {
+    "id": "201942",
+    "nome": "D.DeRozan",
+    "nomeCompleto": "DeMar DeRozan",
+    "time": "CHI"
+  },
+  {
+    "id": "1630466",
+    "nome": "G.Deck",
+    "nomeCompleto": "Gabriel Deck"
+  },
+  {
+    "id": "203473",
+    "nome": "D.Dedmon",
+    "nomeCompleto": "Dewayne Dedmon",
+    "time": "MIA"
+  },
+  {
+    "id": "1626155",
+    "nome": "S.Dekker",
+    "nomeCompleto": "Sam Dekker"
+  },
+  {
+    "id": "1628978",
+    "nome": "D.DiVincenzo",
+    "nomeCompleto": "Donte DiVincenzo",
+    "time": "MIL"
+  },
+  {
+    "id": "1629603",
+    "nome": "M.Diakite",
+    "nomeCompleto": "Mamadi Diakite",
+    "time": "OKC"
+  },
+  {
+    "id": "1627767",
+    "nome": "C.Diallo",
+    "nomeCompleto": "Cheick Diallo"
+  },
+  {
+    "id": "1628977",
+    "nome": "H.Diallo",
+    "nomeCompleto": "Hamidou Diallo",
+    "time": "DET"
+  },
+  {
+    "id": "203476",
+    "nome": "G.Dieng",
+    "nomeCompleto": "Gorgui Dieng",
+    "time": "ATL"
+  },
+  {
+    "id": "203915",
+    "nome": "S.Dinwiddie",
+    "nomeCompleto": "Spencer Dinwiddie",
+    "time": "WAS"
+  },
+  {
+    "id": "1629029",
+    "nome": "L.Doncic",
+    "nomeCompleto": "Luka Doncic",
+    "time": "DAL"
+  },
+  {
+    "id": "1629652",
+    "nome": "L.Dort",
+    "nomeCompleto": "Luguentz Dort",
+    "time": "OKC"
+  },
+  {
+    "id": "1630245",
+    "nome": "A.Dosunmu",
+    "nomeCompleto": "Ayo Dosunmu",
+    "time": "CHI"
+  },
+  {
+    "id": "1628422",
+    "nome": "D.Dotson",
+    "nomeCompleto": "Damyean Dotson"
+  },
+  {
+    "id": "1629653",
+    "nome": "D.Dotson",
+    "nomeCompleto": "Devon Dotson"
+  },
+  {
+    "id": "1629635",
+    "nome": "S.Doumbouya",
+    "nomeCompleto": "Sekou Doumbouya",
+    "time": "LAL"
+  },
+  {
+    "id": "1630288",
+    "nome": "J.Dowtin",
+    "nomeCompleto": "Jeff Dowtin"
+  },
+  {
+    "id": "1628408",
+    "nome": "P.Dozier",
+    "nomeCompleto": "P.J. Dozier",
+    "time": "BOS"
+  },
+  {
+    "id": "201609",
+    "nome": "G.Dragic",
+    "nomeCompleto": "Goran Dragic",
+    "time": "TOR"
+  },
+  {
+    "id": "203083",
+    "nome": "A.Drummond",
+    "nomeCompleto": "Andre Drummond",
+    "time": "PHI"
+  },
+  {
+    "id": "1630537",
+    "nome": "C.Duarte",
+    "nomeCompleto": "Chris Duarte",
+    "time": "IND"
+  },
+  {
+    "id": "1630561",
+    "nome": "D.Duke",
+    "nomeCompleto": "David Duke Jr.",
+    "time": "BKN"
+  },
+  {
+    "id": "201142",
+    "nome": "K.Durant",
+    "nomeCompleto": "Kevin Durant",
+    "time": "BKN"
+  },
+  {
+    "id": "1630693",
+    "nome": "J.Echenique",
+    "nomeCompleto": "Jaime Echenique"
+  },
+  {
+    "id": "1630162",
+    "nome": "A.Edwards",
+    "nomeCompleto": "Anthony Edwards",
+    "time": "MIN"
+  },
+  {
+    "id": "1630556",
+    "nome": "K.Edwards",
+    "nomeCompleto": "Kessler Edwards",
+    "time": "BKN"
+  },
+  {
+    "id": "1630306",
+    "nome": "R.Edwards",
+    "nomeCompleto": "Rob Edwards"
+  },
+  {
+    "id": "1629604",
+    "nome": "C.Elleby",
+    "nomeCompleto": "CJ Elleby",
+    "time": "POR"
+  },
+  {
+    "id": "201961",
+    "nome": "W.Ellington",
+    "nomeCompleto": "Wayne Ellington",
+    "time": "LAL"
+  },
+  {
+    "id": "203954",
+    "nome": "J.Embiid",
+    "nomeCompleto": "Joel Embiid",
+    "time": "PHI"
+  },
+  {
+    "id": "203516",
+    "nome": "J.Ennis",
+    "nomeCompleto": "James Ennis III"
+  },
+  {
+    "id": "1629234",
+    "nome": "D.Eubanks",
+    "nomeCompleto": "Drew Eubanks",
+    "time": "SAS"
+  },
+  {
+    "id": "1629605",
+    "nome": "T.Fall",
+    "nomeCompleto": "Tacko Fall"
+  },
+  {
+    "id": "202324",
+    "nome": "D.Favors",
+    "nomeCompleto": "Derrick Favors",
+    "time": "OKC"
+  },
+  {
+    "id": "1628981",
+    "nome": "B.Fernando",
+    "nomeCompleto": "Bruno Fernando",
+    "time": "BOS"
+  },
+  {
+    "id": "1627827",
+    "nome": "D.Finney-Smith",
+    "nomeCompleto": "Dorian Finney-Smith",
+    "time": "DAL"
+  },
+  {
+    "id": "1630238",
+    "nome": "M.Fitts",
+    "nomeCompleto": "Malik Fitts"
+  },
+  {
+    "id": "1630201",
+    "nome": "M.Flynn",
+    "nomeCompleto": "Malachi Flynn",
+    "time": "TOR"
+  },
+  {
+    "id": "1627854",
+    "nome": "B.Forbes",
+    "nomeCompleto": "Bryn Forbes",
+    "time": "DEN"
+  },
+  {
+    "id": "1630758",
+    "nome": "A.Ford",
+    "nomeCompleto": "Aleem Ford"
+  },
+  {
+    "id": "1630235",
+    "nome": "T.Forrest",
+    "nomeCompleto": "Trent Forrest",
+    "time": "UTA"
+  },
+  {
+    "id": "203095",
+    "nome": "E.Fournier",
+    "nomeCompleto": "Evan Fournier",
+    "time": "NYK"
+  },
+  {
+    "id": "1628368",
+    "nome": "D.Fox",
+    "nomeCompleto": "De'Aaron Fox",
+    "time": "SAC"
+  },
+  {
+    "id": "204025",
+    "nome": "T.Frazier",
+    "nomeCompleto": "Tim Frazier"
+  },
+  {
+    "id": "202683",
+    "nome": "E.Freedom",
+    "nomeCompleto": "Enes Freedom",
+    "time": "BOS"
+  },
+  {
+    "id": "1628365",
+    "nome": "M.Fultz",
+    "nomeCompleto": "Markelle Fultz",
+    "time": "ORL"
+  },
+  {
+    "id": "1629117",
+    "nome": "W.Gabriel",
+    "nomeCompleto": "Wenyen Gabriel"
+  },
+  {
+    "id": "1629655",
+    "nome": "D.Gafford",
+    "nomeCompleto": "Daniel Gafford",
+    "time": "WAS"
+  },
+  {
+    "id": "201568",
+    "nome": "D.Gallinari",
+    "nomeCompleto": "Danilo Gallinari",
+    "time": "ATL"
+  },
+  {
+    "id": "204038",
+    "nome": "L.Galloway",
+    "nomeCompleto": "Langston Galloway"
+  },
+  {
+    "id": "1629636",
+    "nome": "D.Garland",
+    "nomeCompleto": "Darius Garland",
+    "time": "CLE"
+  },
+  {
+    "id": "1630585",
+    "nome": "M.Garrett",
+    "nomeCompleto": "Marcus Garrett"
+  },
+  {
+    "id": "1630586",
+    "nome": "U.Garuba",
+    "nomeCompleto": "Usman Garuba",
+    "time": "HOU"
+  },
+  {
+    "id": "1630568",
+    "nome": "L.Garza",
+    "nomeCompleto": "Luka Garza",
+    "time": "DET"
+  },
+  {
+    "id": "200752",
+    "nome": "R.Gay",
+    "nomeCompleto": "Rudy Gay",
+    "time": "UTA"
+  },
+  {
+    "id": "202331",
+    "nome": "P.George",
+    "nomeCompleto": "Paul George",
+    "time": "LAC"
+  },
+  {
+    "id": "201959",
+    "nome": "T.Gibson",
+    "nomeCompleto": "Taj Gibson",
+    "time": "NYK"
+  },
+  {
+    "id": "1630581",
+    "nome": "J.Giddey",
+    "nomeCompleto": "Josh Giddey",
+    "time": "OKC"
+  },
+  {
+    "id": "1628983",
+    "nome": "S.Gilgeous-Alexander",
+    "nomeCompleto": "Shai Gilgeous-Alexander",
+    "time": "OKC"
+  },
+  {
+    "id": "1630264",
+    "nome": "A.Gill",
+    "nomeCompleto": "Anthony Gill",
+    "time": "WAS"
+  },
+  {
+    "id": "1630273",
+    "nome": "F.Gillespie",
+    "nomeCompleto": "Freddie Gillespie"
+  },
+  {
+    "id": "203497",
+    "nome": "R.Gobert",
+    "nomeCompleto": "Rudy Gobert",
+    "time": "UTA"
+  },
+  {
+    "id": "1629164",
+    "nome": "B.Goodwin",
+    "nomeCompleto": "Brandon Goodwin",
+    "time": "CLE"
+  },
+  {
+    "id": "1630692",
+    "nome": "J.Goodwin",
+    "nomeCompleto": "Jordan Goodwin"
+  },
+  {
+    "id": "203932",
+    "nome": "A.Gordon",
+    "nomeCompleto": "Aaron Gordon",
+    "time": "DEN"
+  },
+  {
+    "id": "201569",
+    "nome": "E.Gordon",
+    "nomeCompleto": "Eric Gordon",
+    "time": "HOU"
+  },
+  {
+    "id": "1628984",
+    "nome": "D.Graham",
+    "nomeCompleto": "Devonte' Graham",
+    "time": "NOP"
+  },
+  {
+    "id": "203924",
+    "nome": "J.Grant",
+    "nomeCompleto": "Jerami Grant",
+    "time": "DET"
+  },
+  {
+    "id": "1629755",
+    "nome": "H.Gravett",
+    "nomeCompleto": "Hassani Gravett"
+  },
+  {
+    "id": "201980",
+    "nome": "D.Green",
+    "nomeCompleto": "Danny Green",
+    "time": "PHI"
+  },
+  {
+    "id": "203110",
+    "nome": "D.Green",
+    "nomeCompleto": "Draymond Green",
+    "time": "GSW"
+  },
+  {
+    "id": "203210",
+    "nome": "J.Green",
+    "nomeCompleto": "JaMychal Green",
+    "time": "DEN"
+  },
+  {
+    "id": "1630224",
+    "nome": "J.Green",
+    "nomeCompleto": "Jalen Green",
+    "time": "HOU"
+  },
+  {
+    "id": "1629750",
+    "nome": "J.Green",
+    "nomeCompleto": "Javonte Green",
+    "time": "CHI"
+  },
+  {
+    "id": "201145",
+    "nome": "J.Green",
+    "nomeCompleto": "Jeff Green",
+    "time": "DEN"
+  },
+  {
+    "id": "1630182",
+    "nome": "J.Green",
+    "nomeCompleto": "Josh Green",
+    "time": "DAL"
+  },
+  {
+    "id": "201933",
+    "nome": "B.Griffin",
+    "nomeCompleto": "Blake Griffin",
+    "time": "BKN"
+  },
+  {
+    "id": "1629656",
+    "nome": "Q.Grimes",
+    "nomeCompleto": "Quentin Grimes",
+    "time": "NYK"
+  },
+  {
+    "id": "1629657",
+    "nome": "K.Guy",
+    "nomeCompleto": "Kyle Guy",
+    "time": "MIA"
+  },
+  {
+    "id": "1629060",
+    "nome": "R.Hachimura",
+    "nomeCompleto": "Rui Hachimura",
+    "time": "WAS"
+  },
+  {
+    "id": "1630169",
+    "nome": "T.Haliburton",
+    "nomeCompleto": "Tyrese Haliburton",
+    "time": "SAC"
+  },
+  {
+    "id": "1629788",
+    "nome": "T.Hall",
+    "nomeCompleto": "Tyler Hall"
+  },
+  {
+    "id": "1630181",
+    "nome": "R.Hampton",
+    "nomeCompleto": "R.J. Hampton",
+    "time": "ORL"
+  },
+  {
+    "id": "203501",
+    "nome": "T.Hardaway",
+    "nomeCompleto": "Tim Hardaway Jr.",
+    "time": "DAL"
+  },
+  {
+    "id": "201935",
+    "nome": "J.Harden",
+    "nomeCompleto": "James Harden",
+    "time": "BKN"
+  },
+  {
+    "id": "203090",
+    "nome": "M.Harkless",
+    "nomeCompleto": "Maurice Harkless",
+    "time": "SAC"
+  },
+  {
+    "id": "1629607",
+    "nome": "J.Harper",
+    "nomeCompleto": "Jared Harper"
+  },
+  {
+    "id": "1626149",
+    "nome": "M.Harrell",
+    "nomeCompleto": "Montrezl Harrell",
+    "time": "WAS"
+  },
+  {
+    "id": "203914",
+    "nome": "G.Harris",
+    "nomeCompleto": "Gary Harris",
+    "time": "ORL"
+  },
+  {
+    "id": "203925",
+    "nome": "J.Harris",
+    "nomeCompleto": "Joe Harris",
+    "time": "BKN"
+  },
+  {
+    "id": "202699",
+    "nome": "T.Harris",
+    "nomeCompleto": "Tobias Harris",
+    "time": "PHI"
+  },
+  {
+    "id": "1627885",
+    "nome": "S.Harrison",
+    "nomeCompleto": "Shaquille Harrison",
+    "time": "MEM"
+  },
+  {
+    "id": "1628404",
+    "nome": "J.Hart",
+    "nomeCompleto": "Josh Hart",
+    "time": "NOP"
+  },
+  {
+    "id": "1628392",
+    "nome": "I.Hartenstein",
+    "nomeCompleto": "Isaiah Hartenstein",
+    "time": "LAC"
+  },
+  {
+    "id": "2617",
+    "nome": "U.Haslem",
+    "nomeCompleto": "Udonis Haslem",
+    "time": "MIA"
+  },
+  {
+    "id": "1630573",
+    "nome": "S.Hauser",
+    "nomeCompleto": "Sam Hauser",
+    "time": "BOS"
+  },
+  {
+    "id": "1629637",
+    "nome": "J.Hayes",
+    "nomeCompleto": "Jaxson Hayes",
+    "time": "NOP"
+  },
+  {
+    "id": "1630165",
+    "nome": "K.Hayes",
+    "nomeCompleto": "Killian Hayes",
+    "time": "DET"
+  },
+  {
+    "id": "202330",
+    "nome": "G.Hayward",
+    "nomeCompleto": "Gordon Hayward",
+    "time": "CHA"
+  },
+  {
+    "id": "1630565",
+    "nome": "A.Henry",
+    "nomeCompleto": "Aaron Henry"
+  },
+  {
+    "id": "1627823",
+    "nome": "J.Hernangomez",
+    "nomeCompleto": "Juancho Hernangomez",
+    "time": "SAS"
+  },
+  {
+    "id": "1626195",
+    "nome": "W.Hernangomez",
+    "nomeCompleto": "Willy Hernangomez",
+    "time": "NOP"
+  },
+  {
+    "id": "1629639",
+    "nome": "T.Herro",
+    "nomeCompleto": "Tyler Herro",
+    "time": "MIA"
+  },
+  {
+    "id": "1627741",
+    "nome": "B.Hield",
+    "nomeCompleto": "Buddy Hield",
+    "time": "SAC"
+  },
+  {
+    "id": "1629312",
+    "nome": "H.Highsmith",
+    "nomeCompleto": "Haywood Highsmith"
+  },
+  {
+    "id": "201588",
+    "nome": "G.Hill",
+    "nomeCompleto": "George Hill",
+    "time": "MIL"
+  },
+  {
+    "id": "1630792",
+    "nome": "M.Hill",
+    "nomeCompleto": "Malcolm Hill",
+    "time": "CHI"
+  },
+  {
+    "id": "203524",
+    "nome": "S.Hill",
+    "nomeCompleto": "Solomon Hill"
+  },
+  {
+    "id": "1630207",
+    "nome": "N.Hinton",
+    "nomeCompleto": "Nate Hinton"
+  },
+  {
+    "id": "1629658",
+    "nome": "J.Hoard",
+    "nomeCompleto": "Jaylen Hoard"
+  },
+  {
+    "id": "1628988",
+    "nome": "A.Holiday",
+    "nomeCompleto": "Aaron Holiday",
+    "time": "WAS"
+  },
+  {
+    "id": "201950",
+    "nome": "J.Holiday",
+    "nomeCompleto": "Jrue Holiday",
+    "time": "MIL"
+  },
+  {
+    "id": "203200",
+    "nome": "J.Holiday",
+    "nomeCompleto": "Justin Holiday",
+    "time": "IND"
+  },
+  {
+    "id": "1626158",
+    "nome": "R.Holmes",
+    "nomeCompleto": "Richaun Holmes",
+    "time": "SAC"
+  },
+  {
+    "id": "203918",
+    "nome": "R.Hood",
+    "nomeCompleto": "Rodney Hood",
+    "time": "MIL"
+  },
+  {
+    "id": "203816",
+    "nome": "S.Hopson",
+    "nomeCompleto": "Scotty Hopson"
+  },
+  {
+    "id": "201143",
+    "nome": "A.Horford",
+    "nomeCompleto": "Al Horford",
+    "time": "BOS"
+  },
+  {
+    "id": "1629659",
+    "nome": "T.Horton-Tucker",
+    "nomeCompleto": "Talen Horton-Tucker",
+    "time": "LAL"
+  },
+  {
+    "id": "1627863",
+    "nome": "D.House",
+    "nomeCompleto": "Danuel House Jr.",
+    "time": "UTA"
+  },
+  {
+    "id": "2730",
+    "nome": "D.Howard",
+    "nomeCompleto": "Dwight Howard",
+    "time": "LAL"
+  },
+  {
+    "id": "1630210",
+    "nome": "M.Howard",
+    "nomeCompleto": "Markus Howard",
+    "time": "DEN"
+  },
+  {
+    "id": "1628989",
+    "nome": "K.Huerter",
+    "nomeCompleto": "Kevin Huerter",
+    "time": "ATL"
+  },
+  {
+    "id": "1630643",
+    "nome": "J.Huff",
+    "nomeCompleto": "Jay Huff"
+  },
+  {
+    "id": "1630190",
+    "nome": "E.Hughes",
+    "nomeCompleto": "Elijah Hughes",
+    "time": "UTA"
+  },
+  {
+    "id": "1629631",
+    "nome": "D.Hunter",
+    "nomeCompleto": "De'Andre Hunter",
+    "time": "ATL"
+  },
+  {
+    "id": "1628990",
+    "nome": "C.Hutchison",
+    "nomeCompleto": "Chandler Hutchison"
+  },
+  {
+    "id": "1630538",
+    "nome": "B.Hyland",
+    "nomeCompleto": "Bones Hyland",
+    "time": "DEN"
+  },
+  {
+    "id": "201586",
+    "nome": "S.Ibaka",
+    "nomeCompleto": "Serge Ibaka",
+    "time": "LAC"
+  },
+  {
+    "id": "2738",
+    "nome": "A.Iguodala",
+    "nomeCompleto": "Andre Iguodala",
+    "time": "GSW"
+  },
+  {
+    "id": "204060",
+    "nome": "J.Ingles",
+    "nomeCompleto": "Joe Ingles",
+    "time": "UTA"
+  },
+  {
+    "id": "1627742",
+    "nome": "B.Ingram",
+    "nomeCompleto": "Brandon Ingram",
+    "time": "NOP"
+  },
+  {
+    "id": "202681",
+    "nome": "K.Irving",
+    "nomeCompleto": "Kyrie Irving",
+    "time": "BKN"
+  },
+  {
+    "id": "1628371",
+    "nome": "J.Isaac",
+    "nomeCompleto": "Jonathan Isaac",
+    "time": "ORL"
+  },
+  {
+    "id": "1628411",
+    "nome": "W.Iwundu",
+    "nomeCompleto": "Wes Iwundu"
+  },
+  {
+    "id": "1628402",
+    "nome": "F.Jackson",
+    "nomeCompleto": "Frank Jackson",
+    "time": "DET"
+  },
+  {
+    "id": "1630543",
+    "nome": "I.Jackson",
+    "nomeCompleto": "Isaiah Jackson",
+    "time": "IND"
+  },
+  {
+    "id": "1628367",
+    "nome": "J.Jackson",
+    "nomeCompleto": "Josh Jackson",
+    "time": "DET"
+  },
+  {
+    "id": "1628382",
+    "nome": "J.Jackson",
+    "nomeCompleto": "Justin Jackson"
+  },
+  {
+    "id": "202704",
+    "nome": "R.Jackson",
+    "nomeCompleto": "Reggie Jackson",
+    "time": "LAC"
+  },
+  {
+    "id": "1628991",
+    "nome": "J.Jackson",
+    "nomeCompleto": "Jaren Jackson Jr.",
+    "time": "MEM"
+  },
+  {
+    "id": "2544",
+    "nome": "L.James",
+    "nomeCompleto": "LeBron James",
+    "time": "LAL"
+  },
+  {
+    "id": "1630610",
+    "nome": "D.Jarreau",
+    "nomeCompleto": "DeJon Jarreau"
+  },
+  {
+    "id": "1629610",
+    "nome": "D.Jeffries",
+    "nomeCompleto": "DaQuan Jeffries"
+  },
+  {
+    "id": "1629660",
+    "nome": "T.Jerome",
+    "nomeCompleto": "Ty Jerome",
+    "time": "OKC"
+  },
+  {
+    "id": "1630198",
+    "nome": "I.Joe",
+    "nomeCompleto": "Isaiah Joe",
+    "time": "PHI"
+  },
+  {
+    "id": "1628993",
+    "nome": "A.Johnson",
+    "nomeCompleto": "Alize Johnson"
+  },
+  {
+    "id": "1629168",
+    "nome": "B.Johnson",
+    "nomeCompleto": "BJ Johnson"
+  },
+  {
+    "id": "1629661",
+    "nome": "C.Johnson",
+    "nomeCompleto": "Cameron Johnson",
+    "time": "PHX"
+  },
+  {
+    "id": "1630525",
+    "nome": "D.Johnson",
+    "nomeCompleto": "David Johnson",
+    "time": "TOR"
+  },
+  {
+    "id": "1630552",
+    "nome": "J.Johnson",
+    "nomeCompleto": "Jalen Johnson",
+    "time": "ATL"
+  },
+  {
+    "id": "201949",
+    "nome": "J.Johnson",
+    "nomeCompleto": "James Johnson",
+    "time": "BKN"
+  },
+  {
+    "id": "2207",
+    "nome": "J.Johnson",
+    "nomeCompleto": "Joe Johnson"
+  },
+  {
+    "id": "1629640",
+    "nome": "K.Johnson",
+    "nomeCompleto": "Keldon Johnson",
+    "time": "SAS"
+  },
+  {
+    "id": "1630553",
+    "nome": "K.Johnson",
+    "nomeCompleto": "Keon Johnson",
+    "time": "LAC"
+  },
+  {
+    "id": "1626169",
+    "nome": "S.Johnson",
+    "nomeCompleto": "Stanley Johnson",
+    "time": "LAL"
+  },
+  {
+    "id": "204020",
+    "nome": "T.Johnson",
+    "nomeCompleto": "Tyler Johnson"
+  },
+  {
+    "id": "203999",
+    "nome": "N.Jokic",
+    "nomeCompleto": "Nikola Jokic",
+    "time": "DEN"
+  },
+  {
+    "id": "1630637",
+    "nome": "C.Jones",
+    "nomeCompleto": "Carlik Jones"
+  },
+  {
+    "id": "1627745",
+    "nome": "D.Jones",
+    "nomeCompleto": "Damian Jones",
+    "time": "SAC"
+  },
+  {
+    "id": "1630529",
+    "nome": "H.Jones",
+    "nomeCompleto": "Herbert Jones",
+    "time": "NOP"
+  },
+  {
+    "id": "1629203",
+    "nome": "J.Jones",
+    "nomeCompleto": "Jemerrio Jones"
+  },
+  {
+    "id": "1630539",
+    "nome": "K.Jones",
+    "nomeCompleto": "Kai Jones",
+    "time": "CHA"
+  },
+  {
+    "id": "1630222",
+    "nome": "M.Jones",
+    "nomeCompleto": "Mason Jones",
+    "time": "LAL"
+  },
+  {
+    "id": "1630200",
+    "nome": "T.Jones",
+    "nomeCompleto": "Tre Jones",
+    "time": "SAS"
+  },
+  {
+    "id": "1626145",
+    "nome": "T.Jones",
+    "nomeCompleto": "Tyus Jones",
+    "time": "MEM"
+  },
+  {
+    "id": "1627884",
+    "nome": "D.Jones",
+    "nomeCompleto": "Derrick Jones Jr.",
+    "time": "CHI"
+  },
+  {
+    "id": "201599",
+    "nome": "D.Jordan",
+    "nomeCompleto": "DeAndre Jordan",
+    "time": "LAL"
+  },
+  {
+    "id": "202709",
+    "nome": "C.Joseph",
+    "nomeCompleto": "Cory Joseph",
+    "time": "DET"
+  },
+  {
+    "id": "1630686",
+    "nome": "G.Kalaitzakis",
+    "nomeCompleto": "Georgios Kalaitzakis"
+  },
+  {
+    "id": "1626163",
+    "nome": "F.Kaminsky",
+    "nomeCompleto": "Frank Kaminsky",
+    "time": "PHX"
+  },
+  {
+    "id": "1628379",
+    "nome": "L.Kennard",
+    "nomeCompleto": "Luke Kennard",
+    "time": "LAC"
+  },
+  {
+    "id": "1630296",
+    "nome": "B.Key",
+    "nomeCompleto": "Braxton Key"
+  },
+  {
+    "id": "1628994",
+    "nome": "G.King",
+    "nomeCompleto": "George King"
+  },
+  {
+    "id": "1629663",
+    "nome": "L.King",
+    "nomeCompleto": "Louis King",
+    "time": "SAC"
+  },
+  {
+    "id": "1630557",
+    "nome": "C.Kispert",
+    "nomeCompleto": "Corey Kispert",
+    "time": "WAS"
+  },
+  {
+    "id": "1628467",
+    "nome": "M.Kleber",
+    "nomeCompleto": "Maxi Kleber",
+    "time": "DAL"
+  },
+  {
+    "id": "202688",
+    "nome": "B.Knight",
+    "nomeCompleto": "Brandon Knight"
+  },
+  {
+    "id": "1630233",
+    "nome": "N.Knight",
+    "nomeCompleto": "Nathan Knight",
+    "time": "MIN"
+  },
+  {
+    "id": "1628995",
+    "nome": "K.Knox",
+    "nomeCompleto": "Kevin Knox II",
+    "time": "ATL"
+  },
+  {
+    "id": "1629723",
+    "nome": "J.Konchar",
+    "nomeCompleto": "John Konchar",
+    "time": "MEM"
+  },
+  {
+    "id": "1627788",
+    "nome": "F.Korkmaz",
+    "nomeCompleto": "Furkan Korkmaz",
+    "time": "PHI"
+  },
+  {
+    "id": "1628436",
+    "nome": "L.Kornet",
+    "nomeCompleto": "Luke Kornet"
+  },
+  {
+    "id": "1630249",
+    "nome": "V.Krejci",
+    "nomeCompleto": "Vit Krejci",
+    "time": "OKC"
+  },
+  {
+    "id": "1629083",
+    "nome": "A.Kulboka",
+    "nomeCompleto": "Arnoldas Kulboka",
+    "time": "CHA"
+  },
+  {
+    "id": "1630228",
+    "nome": "J.Kuminga",
+    "nomeCompleto": "Jonathan Kuminga",
+    "time": "GSW"
+  },
+  {
+    "id": "1628398",
+    "nome": "K.Kuzma",
+    "nomeCompleto": "Kyle Kuzma",
+    "time": "WAS"
+  },
+  {
+    "id": "203897",
+    "nome": "Z.LaVine",
+    "nomeCompleto": "Zach LaVine",
+    "time": "CHI"
+  },
+  {
+    "id": "1630237",
+    "nome": "A.Lamb",
+    "nomeCompleto": "Anthony Lamb"
+  },
+  {
+    "id": "203087",
+    "nome": "J.Lamb",
+    "nomeCompleto": "Jeremy Lamb",
+    "time": "IND"
+  },
+  {
+    "id": "1629111",
+    "nome": "J.Landale",
+    "nomeCompleto": "Jock Landale",
+    "time": "SAS"
+  },
+  {
+    "id": "1629641",
+    "nome": "R.Langford",
+    "nomeCompleto": "Romeo Langford",
+    "time": "BOS"
+  },
+  {
+    "id": "1627774",
+    "nome": "J.Layman",
+    "nomeCompleto": "Jake Layman",
+    "time": "MIN"
+  },
+  {
+    "id": "1627747",
+    "nome": "C.LeVert",
+    "nomeCompleto": "Caris LeVert",
+    "time": "IND"
+  },
+  {
+    "id": "1627814",
+    "nome": "D.Lee",
+    "nomeCompleto": "Damion Lee",
+    "time": "GSW"
+  },
+  {
+    "id": "1630240",
+    "nome": "S.Lee",
+    "nomeCompleto": "Saben Lee",
+    "time": "DET"
+  },
+  {
+    "id": "203458",
+    "nome": "A.Len",
+    "nomeCompleto": "Alex Len",
+    "time": "SAC"
+  },
+  {
+    "id": "202695",
+    "nome": "K.Leonard",
+    "nomeCompleto": "Kawhi Leonard",
+    "time": "LAC"
+  },
+  {
+    "id": "1630575",
+    "nome": "S.Lewis",
+    "nomeCompleto": "Scottie Lewis",
+    "time": "CHA"
+  },
+  {
+    "id": "1630184",
+    "nome": "K.Lewis",
+    "nomeCompleto": "Kira Lewis Jr.",
+    "time": "NOP"
+  },
+  {
+    "id": "203081",
+    "nome": "D.Lillard",
+    "nomeCompleto": "Damian Lillard",
+    "time": "POR"
+  },
+  {
+    "id": "1629642",
+    "nome": "N.Little",
+    "nomeCompleto": "Nassir Little",
+    "time": "POR"
+  },
+  {
+    "id": "1630587",
+    "nome": "I.Livers",
+    "nomeCompleto": "Isaiah Livers",
+    "time": "DET"
+  },
+  {
+    "id": "1626172",
+    "nome": "K.Looney",
+    "nomeCompleto": "Kevon Looney",
+    "time": "GSW"
+  },
+  {
+    "id": "201572",
+    "nome": "B.Lopez",
+    "nomeCompleto": "Brook Lopez",
+    "time": "MIL"
+  },
+  {
+    "id": "201577",
+    "nome": "R.Lopez",
+    "nomeCompleto": "Robin Lopez",
+    "time": "ORL"
+  },
+  {
+    "id": "1629712",
+    "nome": "D.Louzada",
+    "nomeCompleto": "Didi Louzada",
+    "time": "NOP"
+  },
+  {
+    "id": "201567",
+    "nome": "K.Love",
+    "nomeCompleto": "Kevin Love",
+    "time": "CLE"
+  },
+  {
+    "id": "200768",
+    "nome": "K.Lowry",
+    "nomeCompleto": "Kyle Lowry",
+    "time": "MIA"
+  },
+  {
+    "id": "1627789",
+    "nome": "T.Luwawu-Cabarrot",
+    "nomeCompleto": "Timothe Luwawu-Cabarrot",
+    "time": "ATL"
+  },
+  {
+    "id": "1626168",
+    "nome": "T.Lyles",
+    "nomeCompleto": "Trey Lyles",
+    "time": "DET"
+  },
+  {
+    "id": "1630177",
+    "nome": "T.Maledon",
+    "nomeCompleto": "Theo Maledon",
+    "time": "OKC"
+  },
+  {
+    "id": "1630572",
+    "nome": "S.Mamukelashvili",
+    "nomeCompleto": "Sandro Mamukelashvili",
+    "time": "MIL"
+  },
+  {
+    "id": "1629611",
+    "nome": "T.Mann",
+    "nomeCompleto": "Terance Mann",
+    "time": "LAC"
+  },
+  {
+    "id": "1630544",
+    "nome": "T.Mann",
+    "nomeCompleto": "Tre Mann",
+    "time": "OKC"
+  },
+  {
+    "id": "1626246",
+    "nome": "B.Marjanovic",
+    "nomeCompleto": "Boban Marjanovic",
+    "time": "DAL"
+  },
+  {
+    "id": "1628374",
+    "nome": "L.Markkanen",
+    "nomeCompleto": "Lauri Markkanen",
+    "time": "CLE"
+  },
+  {
+    "id": "1630230",
+    "nome": "N.Marshall",
+    "nomeCompleto": "Naji Marshall",
+    "time": "NOP"
+  },
+  {
+    "id": "1628997",
+    "nome": "C.Martin",
+    "nomeCompleto": "Caleb Martin",
+    "time": "MIA"
+  },
+  {
+    "id": "1628998",
+    "nome": "C.Martin",
+    "nomeCompleto": "Cody Martin",
+    "time": "CHA"
+  },
+  {
+    "id": "1629103",
+    "nome": "K.Martin",
+    "nomeCompleto": "Kelan Martin"
+  },
+  {
+    "id": "1630231",
+    "nome": "K.Martin",
+    "nomeCompleto": "Kenyon Martin Jr.",
+    "time": "HOU"
+  },
+  {
+    "id": "1629726",
+    "nome": "G.Mathews",
+    "nomeCompleto": "Garrison Mathews",
+    "time": "HOU"
+  },
+  {
+    "id": "1629751",
+    "nome": "D.Mathias",
+    "nomeCompleto": "Dakota Mathias"
+  },
+  {
+    "id": "202083",
+    "nome": "W.Matthews",
+    "nomeCompleto": "Wesley Matthews",
+    "time": "MIL"
+  },
+  {
+    "id": "1630178",
+    "nome": "T.Maxey",
+    "nomeCompleto": "Tyrese Maxey",
+    "time": "PHI"
+  },
+  {
+    "id": "1630219",
+    "nome": "S.Mays",
+    "nomeCompleto": "Skylar Mays",
+    "time": "ATL"
+  },
+  {
+    "id": "1630540",
+    "nome": "M.McBride",
+    "nomeCompleto": "Miles McBride",
+    "time": "NYK"
+  },
+  {
+    "id": "1630644",
+    "nome": "M.McClung",
+    "nomeCompleto": "Mac McClung"
+  },
+  {
+    "id": "203468",
+    "nome": "C.McCollum",
+    "nomeCompleto": "CJ McCollum",
+    "time": "POR"
+  },
+  {
+    "id": "204456",
+    "nome": "T.McConnell",
+    "nomeCompleto": "T.J. McConnell",
+    "time": "IND"
+  },
+  {
+    "id": "1630183",
+    "nome": "J.McDaniels",
+    "nomeCompleto": "Jaden McDaniels",
+    "time": "MIN"
+  },
+  {
+    "id": "1629667",
+    "nome": "J.McDaniels",
+    "nomeCompleto": "Jalen McDaniels",
+    "time": "CHA"
+  },
+  {
+    "id": "203926",
+    "nome": "D.McDermott",
+    "nomeCompleto": "Doug McDermott",
+    "time": "SAS"
+  },
+  {
+    "id": "201580",
+    "nome": "J.McGee",
+    "nomeCompleto": "JaVale McGee",
+    "time": "PHX"
+  },
+  {
+    "id": "1630787",
+    "nome": "C.McGriff",
+    "nomeCompleto": "Cameron McGriff"
+  },
+  {
+    "id": "203585",
+    "nome": "R.McGruder",
+    "nomeCompleto": "Rodney McGruder",
+    "time": "DET"
+  },
+  {
+    "id": "1628035",
+    "nome": "A.McKinnie",
+    "nomeCompleto": "Alfonzo McKinnie",
+    "time": "CHI"
+  },
+  {
+    "id": "1630605",
+    "nome": "J.McLaughlin",
+    "nomeCompleto": "JaQuori McLaughlin"
+  },
+  {
+    "id": "1629162",
+    "nome": "J.McLaughlin",
+    "nomeCompleto": "Jordan McLaughlin",
+    "time": "MIN"
+  },
+  {
+    "id": "203463",
+    "nome": "B.McLemore",
+    "nomeCompleto": "Ben McLemore",
+    "time": "POR"
+  },
+  {
+    "id": "1629001",
+    "nome": "D.Melton",
+    "nomeCompleto": "De'Anthony Melton",
+    "time": "MEM"
+  },
+  {
+    "id": "1630241",
+    "nome": "S.Merrill",
+    "nomeCompleto": "Sam Merrill"
+  },
+  {
+    "id": "1629002",
+    "nome": "C.Metu",
+    "nomeCompleto": "Chimezie Metu",
+    "time": "SAC"
+  },
+  {
+    "id": "203114",
+    "nome": "K.Middleton",
+    "nomeCompleto": "Khris Middleton",
+    "time": "MIL"
+  },
+  {
+    "id": "101139",
+    "nome": "C.Miles",
+    "nomeCompleto": "CJ Miles"
+  },
+  {
+    "id": "201988",
+    "nome": "P.Mills",
+    "nomeCompleto": "Patty Mills",
+    "time": "BKN"
+  },
+  {
+    "id": "200794",
+    "nome": "P.Millsap",
+    "nomeCompleto": "Paul Millsap",
+    "time": "BKN"
+  },
+  {
+    "id": "1629003",
+    "nome": "S.Milton",
+    "nomeCompleto": "Shake Milton",
+    "time": "PHI"
+  },
+  {
+    "id": "1630558",
+    "nome": "D.Mitchell",
+    "nomeCompleto": "Davion Mitchell",
+    "time": "SAC"
+  },
+  {
+    "id": "1628378",
+    "nome": "D.Mitchell",
+    "nomeCompleto": "Donovan Mitchell",
+    "time": "UTA"
+  },
+  {
+    "id": "1630596",
+    "nome": "E.Mobley",
+    "nomeCompleto": "Evan Mobley",
+    "time": "CLE"
+  },
+  {
+    "id": "1628370",
+    "nome": "M.Monk",
+    "nomeCompleto": "Malik Monk",
+    "time": "LAL"
+  },
+  {
+    "id": "202328",
+    "nome": "G.Monroe",
+    "nomeCompleto": "Greg Monroe"
+  },
+  {
+    "id": "1630541",
+    "nome": "M.Moody",
+    "nomeCompleto": "Moses Moody",
+    "time": "GSW"
+  },
+  {
+    "id": "1629875",
+    "nome": "X.Moon",
+    "nomeCompleto": "Xavier Moon"
+  },
+  {
+    "id": "1629760",
+    "nome": "M.Mooney",
+    "nomeCompleto": "Matt Mooney"
+  },
+  {
+    "id": "202734",
+    "nome": "E.Moore",
+    "nomeCompleto": "E'Twaun Moore",
+    "time": "ORL"
+  },
+  {
+    "id": "1629630",
+    "nome": "J.Morant",
+    "nomeCompleto": "Ja Morant",
+    "time": "MEM"
+  },
+  {
+    "id": "1629752",
+    "nome": "J.Morgan",
+    "nomeCompleto": "Juwan Morgan"
+  },
+  {
+    "id": "1628537",
+    "nome": "J.Morris",
+    "nomeCompleto": "Jaylen Morris"
+  },
+  {
+    "id": "202693",
+    "nome": "M.Morris",
+    "nomeCompleto": "Markieff Morris",
+    "time": "MIA"
+  },
+  {
+    "id": "1628420",
+    "nome": "M.Morris",
+    "nomeCompleto": "Monte Morris",
+    "time": "DEN"
+  },
+  {
+    "id": "202694",
+    "nome": "M.Morris",
+    "nomeCompleto": "Marcus Morris Sr.",
+    "time": "LAC"
+  },
+  {
+    "id": "1626144",
+    "nome": "E.Mudiay",
+    "nomeCompleto": "Emmanuel Mudiay"
+  },
+  {
+    "id": "1628539",
+    "nome": "M.Mulder",
+    "nomeCompleto": "Mychal Mulder"
+  },
+  {
+    "id": "1630278",
+    "nome": "A.Murkey",
+    "nomeCompleto": "Ade Murkey"
+  },
+  {
+    "id": "1630530",
+    "nome": "T.Murphy",
+    "nomeCompleto": "Trey Murphy III",
+    "time": "NOP"
+  },
+  {
+    "id": "1627749",
+    "nome": "D.Murray",
+    "nomeCompleto": "Dejounte Murray",
+    "time": "SAS"
+  },
+  {
+    "id": "1627750",
+    "nome": "J.Murray",
+    "nomeCompleto": "Jamal Murray",
+    "time": "DEN"
+  },
+  {
+    "id": "203488",
+    "nome": "M.Muscala",
+    "nomeCompleto": "Mike Muscala",
+    "time": "OKC"
+  },
+  {
+    "id": "1629004",
+    "nome": "S.Mykhailiuk",
+    "nomeCompleto": "Svi Mykhailiuk",
+    "time": "TOR"
+  },
+  {
+    "id": "1627846",
+    "nome": "A.Nader",
+    "nomeCompleto": "Abdel Nader",
+    "time": "PHX"
+  },
+  {
+    "id": "1626204",
+    "nome": "L.Nance",
+    "nomeCompleto": "Larry Nance Jr.",
+    "time": "POR"
+  },
+  {
+    "id": "1630612",
+    "nome": "R.Nembhard",
+    "nomeCompleto": "RJ Nembhard Jr.",
+    "time": "CLE"
+  },
+  {
+    "id": "1630174",
+    "nome": "A.Nesmith",
+    "nomeCompleto": "Aaron Nesmith",
+    "time": "BOS"
+  },
+  {
+    "id": "203526",
+    "nome": "R.Neto",
+    "nomeCompleto": "Raul Neto",
+    "time": "WAS"
+  },
+  {
+    "id": "1629005",
+    "nome": "M.Newman",
+    "nomeCompleto": "Malik Newman"
+  },
+  {
+    "id": "1627777",
+    "nome": "G.Niang",
+    "nomeCompleto": "Georges Niang",
+    "time": "PHI"
+  },
+  {
+    "id": "1630227",
+    "nome": "D.Nix",
+    "nomeCompleto": "Daishen Nix",
+    "time": "HOU"
+  },
+  {
+    "id": "1630192",
+    "nome": "Z.Nnaji",
+    "nomeCompleto": "Zeke Nnaji",
+    "time": "DEN"
+  },
+  {
+    "id": "203457",
+    "nome": "N.Noel",
+    "nomeCompleto": "Nerlens Noel",
+    "time": "NYK"
+  },
+  {
+    "id": "1629669",
+    "nome": "J.Nowell",
+    "nomeCompleto": "Jaylen Nowell",
+    "time": "MIN"
+  },
+  {
+    "id": "1628373",
+    "nome": "F.Ntilikina",
+    "nomeCompleto": "Frank Ntilikina",
+    "time": "DAL"
+  },
+  {
+    "id": "1629134",
+    "nome": "K.Nunn",
+    "nomeCompleto": "Kendrick Nunn",
+    "time": "LAL"
+  },
+  {
+    "id": "203994",
+    "nome": "J.Nurkic",
+    "nomeCompleto": "Jusuf Nurkic",
+    "time": "POR"
+  },
+  {
+    "id": "1628021",
+    "nome": "D.Nwaba",
+    "nomeCompleto": "David Nwaba",
+    "time": "HOU"
+  },
+  {
+    "id": "1629670",
+    "nome": "J.Nwora",
+    "nomeCompleto": "Jordan Nwora",
+    "time": "MIL"
+  },
+  {
+    "id": "1626220",
+    "nome": "R.O'Neale",
+    "nomeCompleto": "Royce O'Neale",
+    "time": "UTA"
+  },
+  {
+    "id": "1628400",
+    "nome": "S.Ojeleye",
+    "nomeCompleto": "Semi Ojeleye",
+    "time": "MIL"
+  },
+  {
+    "id": "1629643",
+    "nome": "C.Okeke",
+    "nomeCompleto": "Chuma Okeke",
+    "time": "ORL"
+  },
+  {
+    "id": "1629006",
+    "nome": "J.Okogie",
+    "nomeCompleto": "Josh Okogie",
+    "time": "MIN"
+  },
+  {
+    "id": "1630168",
+    "nome": "O.Okongwu",
+    "nomeCompleto": "Onyeka Okongwu",
+    "time": "ATL"
+  },
+  {
+    "id": "1630171",
+    "nome": "I.Okoro",
+    "nomeCompleto": "Isaac Okoro",
+    "time": "CLE"
+  },
+  {
+    "id": "1629644",
+    "nome": "K.Okpala",
+    "nomeCompleto": "KZ Okpala",
+    "time": "MIA"
+  },
+  {
+    "id": "203506",
+    "nome": "V.Oladipo",
+    "nomeCompleto": "Victor Oladipo",
+    "time": "MIA"
+  },
+  {
+    "id": "1628419",
+    "nome": "C.Oliver",
+    "nomeCompleto": "Cameron Oliver"
+  },
+  {
+    "id": "203482",
+    "nome": "K.Olynyk",
+    "nomeCompleto": "Kelly Olynyk",
+    "time": "DET"
+  },
+  {
+    "id": "1630647",
+    "nome": "E.Omoruyi",
+    "nomeCompleto": "Eugene Omoruyi"
+  },
+  {
+    "id": "1629671",
+    "nome": "M.Oni",
+    "nomeCompleto": "Miye Oni"
+  },
+  {
+    "id": "1626224",
+    "nome": "C.Osman",
+    "nomeCompleto": "Cedi Osman",
+    "time": "CLE"
+  },
+  {
+    "id": "1630187",
+    "nome": "D.Oturu",
+    "nomeCompleto": "Daniel Oturu"
+  },
+  {
+    "id": "1626162",
+    "nome": "K.Oubre",
+    "nomeCompleto": "Kelly Oubre Jr.",
+    "time": "CHA"
+  },
+  {
+    "id": "1629873",
+    "nome": "J.Paige",
+    "nomeCompleto": "Jaysean Paige"
+  },
+  {
+    "id": "1629309",
+    "nome": "T.Palmer",
+    "nomeCompleto": "Trayvon Palmer"
+  },
+  {
+    "id": "1630698",
+    "nome": "K.Pangos",
+    "nomeCompleto": "Kevin Pangos",
+    "time": "CLE"
+  },
+  {
+    "id": "203953",
+    "nome": "J.Parker",
+    "nomeCompleto": "Jabari Parker"
+  },
+  {
+    "id": "1629672",
+    "nome": "E.Paschall",
+    "nomeCompleto": "Eric Paschall",
+    "time": "UTA"
+  },
+  {
+    "id": "101108",
+    "nome": "C.Paul",
+    "nomeCompleto": "Chris Paul",
+    "time": "PHX"
+  },
+  {
+    "id": "1626166",
+    "nome": "C.Payne",
+    "nomeCompleto": "Cameron Payne",
+    "time": "PHX"
+  },
+  {
+    "id": "203901",
+    "nome": "E.Payton",
+    "nomeCompleto": "Elfrid Payton",
+    "time": "PHX"
+  },
+  {
+    "id": "1627780",
+    "nome": "G.Payton",
+    "nomeCompleto": "Gary Payton II",
+    "time": "GSW"
+  },
+  {
+    "id": "203658",
+    "nome": "N.Pelle",
+    "nomeCompleto": "Norvel Pelle"
+  },
+  {
+    "id": "1629617",
+    "nome": "R.Perry",
+    "nomeCompleto": "Reggie Perry"
+  },
+  {
+    "id": "1630691",
+    "nome": "J.Pickett",
+    "nomeCompleto": "Jamorko Pickett",
+    "time": "DET"
+  },
+  {
+    "id": "1629033",
+    "nome": "T.Pinson",
+    "nomeCompleto": "Theo Pinson",
+    "time": "DAL"
+  },
+  {
+    "id": "203486",
+    "nome": "M.Plumlee",
+    "nomeCompleto": "Mason Plumlee",
+    "time": "CHA"
+  },
+  {
+    "id": "1627751",
+    "nome": "J.Poeltl",
+    "nomeCompleto": "Jakob Poeltl",
+    "time": "SAS"
+  },
+  {
+    "id": "1630197",
+    "nome": "A.Pokusevski",
+    "nomeCompleto": "Aleksej Pokusevski",
+    "time": "OKC"
+  },
+  {
+    "id": "1630582",
+    "nome": "Y.Pons",
+    "nomeCompleto": "Yves Pons",
+    "time": "MEM"
+  },
+  {
+    "id": "1629673",
+    "nome": "J.Poole",
+    "nomeCompleto": "Jordan Poole",
+    "time": "GSW"
+  },
+  {
+    "id": "1629645",
+    "nome": "K.Porter",
+    "nomeCompleto": "Kevin Porter Jr.",
+    "time": "HOU"
+  },
+  {
+    "id": "1629008",
+    "nome": "M.Porter",
+    "nomeCompleto": "Michael Porter Jr.",
+    "time": "DEN"
+  },
+  {
+    "id": "203490",
+    "nome": "O.Porter",
+    "nomeCompleto": "Otto Porter Jr.",
+    "time": "GSW"
+  },
+  {
+    "id": "1626171",
+    "nome": "B.Portis",
+    "nomeCompleto": "Bobby Portis",
+    "time": "MIL"
+  },
+  {
+    "id": "204001",
+    "nome": "K.Porzingis",
+    "nomeCompleto": "Kristaps Porzingis",
+    "time": "DAL"
+  },
+  {
+    "id": "1630695",
+    "nome": "M.Potter",
+    "nomeCompleto": "Micah Potter"
+  },
+  {
+    "id": "203939",
+    "nome": "D.Powell",
+    "nomeCompleto": "Dwight Powell",
+    "time": "DAL"
+  },
+  {
+    "id": "1629619",
+    "nome": "M.Powell",
+    "nomeCompleto": "Myles Powell",
+    "time": "PHI"
+  },
+  {
+    "id": "1626181",
+    "nome": "N.Powell",
+    "nomeCompleto": "Norman Powell",
+    "time": "POR"
+  },
+  {
+    "id": "1630554",
+    "nome": "J.Preston",
+    "nomeCompleto": "Jason Preston",
+    "time": "LAC"
+  },
+  {
+    "id": "1630563",
+    "nome": "J.Primo",
+    "nomeCompleto": "Joshua Primo",
+    "time": "SAS"
+  },
+  {
+    "id": "1627752",
+    "nome": "T.Prince",
+    "nomeCompleto": "Taurean Prince",
+    "time": "MIN"
+  },
+  {
+    "id": "1630202",
+    "nome": "P.Pritchard",
+    "nomeCompleto": "Payton Pritchard",
+    "time": "BOS"
+  },
+  {
+    "id": "1630243",
+    "nome": "T.Queen",
+    "nomeCompleto": "Trevelin Queen",
+    "time": "HOU"
+  },
+  {
+    "id": "1629674",
+    "nome": "N.Queta",
+    "nomeCompleto": "Neemias Queta",
+    "time": "SAC"
+  },
+  {
+    "id": "1630193",
+    "nome": "I.Quickley",
+    "nomeCompleto": "Immanuel Quickley",
+    "time": "NYK"
+  },
+  {
+    "id": "1630186",
+    "nome": "J.Ramsey",
+    "nomeCompleto": "Jahmi'us Ramsey",
+    "time": "SAC"
+  },
+  {
+    "id": "203944",
+    "nome": "J.Randle",
+    "nomeCompleto": "Julius Randle",
+    "time": "NYK"
+  },
+  {
+    "id": "1630559",
+    "nome": "A.Reaves",
+    "nomeCompleto": "Austin Reaves",
+    "time": "LAL"
+  },
+  {
+    "id": "1629629",
+    "nome": "C.Reddish",
+    "nomeCompleto": "Cam Reddish",
+    "time": "NYK"
+  },
+  {
+    "id": "1628432",
+    "nome": "D.Reed",
+    "nomeCompleto": "Davon Reed",
+    "time": "DEN"
+  },
+  {
+    "id": "1630194",
+    "nome": "P.Reed",
+    "nomeCompleto": "Paul Reed",
+    "time": "PHI"
+  },
+  {
+    "id": "1629675",
+    "nome": "N.Reid",
+    "nomeCompleto": "Naz Reid",
+    "time": "MIN"
+  },
+  {
+    "id": "1630208",
+    "nome": "N.Richards",
+    "nomeCompleto": "Nick Richards",
+    "time": "CHA"
+  },
+  {
+    "id": "1626196",
+    "nome": "J.Richardson",
+    "nomeCompleto": "Josh Richardson",
+    "time": "BOS"
+  },
+  {
+    "id": "203085",
+    "nome": "A.Rivers",
+    "nomeCompleto": "Austin Rivers",
+    "time": "DEN"
+  },
+  {
+    "id": "1629130",
+    "nome": "D.Robinson",
+    "nomeCompleto": "Duncan Robinson",
+    "time": "MIA"
+  },
+  {
+    "id": "1629620",
+    "nome": "J.Robinson",
+    "nomeCompleto": "Justin Robinson"
+  },
+  {
+    "id": "1629011",
+    "nome": "M.Robinson",
+    "nomeCompleto": "Mitchell Robinson",
+    "time": "NYK"
+  },
+  {
+    "id": "1630526",
+    "nome": "J.Robinson-Earl",
+    "nomeCompleto": "Jeremiah Robinson-Earl",
+    "time": "OKC"
+  },
+  {
+    "id": "1629676",
+    "nome": "I.Roby",
+    "nomeCompleto": "Isaiah Roby",
+    "time": "OKC"
+  },
+  {
+    "id": "200765",
+    "nome": "R.Rondo",
+    "nomeCompleto": "Rajon Rondo",
+    "time": "CLE"
+  },
+  {
+    "id": "201565",
+    "nome": "D.Rose",
+    "nomeCompleto": "Derrick Rose",
+    "time": "NYK"
+  },
+  {
+    "id": "203082",
+    "nome": "T.Ross",
+    "nomeCompleto": "Terrence Ross",
+    "time": "ORL"
+  },
+  {
+    "id": "1626179",
+    "nome": "T.Rozier",
+    "nomeCompleto": "Terry Rozier",
+    "time": "CHA"
+  },
+  {
+    "id": "201937",
+    "nome": "R.Rubio",
+    "nomeCompleto": "Ricky Rubio",
+    "time": "CLE"
+  },
+  {
+    "id": "1626156",
+    "nome": "D.Russell",
+    "nomeCompleto": "D'Angelo Russell",
+    "time": "MIN"
+  },
+  {
+    "id": "1627734",
+    "nome": "D.Sabonis",
+    "nomeCompleto": "Domantas Sabonis",
+    "time": "IND"
+  },
+  {
+    "id": "1629677",
+    "nome": "L.Samanic",
+    "nomeCompleto": "Luka Samanic",
+    "time": "NYK"
+  },
+  {
+    "id": "203967",
+    "nome": "D.Saric",
+    "nomeCompleto": "Dario Saric",
+    "time": "PHX"
+  },
+  {
+    "id": "1630846",
+    "nome": "O.Sarr",
+    "nomeCompleto": "Olivier Sarr"
+  },
+  {
+    "id": "203107",
+    "nome": "T.Satoransky",
+    "nomeCompleto": "Tomas Satoransky",
+    "time": "NOP"
+  },
+  {
+    "id": "1630648",
+    "nome": "J.Schakel",
+    "nomeCompleto": "Jordan Schakel"
+  },
+  {
+    "id": "1629678",
+    "nome": "A.Schofield",
+    "nomeCompleto": "Admiral Schofield",
+    "time": "ORL"
+  },
+  {
+    "id": "203471",
+    "nome": "D.Schroder",
+    "nomeCompleto": "Dennis Schroder",
+    "time": "BOS"
+  },
+  {
+    "id": "1630286",
+    "nome": "T.Scott",
+    "nomeCompleto": "Trevon Scott"
+  },
+  {
+    "id": "1630206",
+    "nome": "J.Scrubb",
+    "nomeCompleto": "Jay Scrubb",
+    "time": "LAC"
+  },
+  {
+    "id": "1627782",
+    "nome": "W.Selden",
+    "nomeCompleto": "Wayne Selden"
+  },
+  {
+    "id": "1630578",
+    "nome": "A.Sengun",
+    "nomeCompleto": "Alperen Sengun",
+    "time": "HOU"
+  },
+  {
+    "id": "1629012",
+    "nome": "C.Sexton",
+    "nomeCompleto": "Collin Sexton",
+    "time": "CLE"
+  },
+  {
+    "id": "1629013",
+    "nome": "L.Shamet",
+    "nomeCompleto": "Landry Shamet",
+    "time": "PHX"
+  },
+  {
+    "id": "1630549",
+    "nome": "D.Sharpe",
+    "nomeCompleto": "Day'Ron Sharpe",
+    "time": "BKN"
+  },
+  {
+    "id": "1627783",
+    "nome": "P.Siakam",
+    "nomeCompleto": "Pascal Siakam",
+    "time": "TOR"
+  },
+  {
+    "id": "1629735",
+    "nome": "C.Silva",
+    "nomeCompleto": "Chris Silva",
+    "time": "MIA"
+  },
+  {
+    "id": "1627732",
+    "nome": "B.Simmons",
+    "nomeCompleto": "Ben Simmons",
+    "time": "PHI"
+  },
+  {
+    "id": "1630250",
+    "nome": "M.Simonovic",
+    "nomeCompleto": "Marko Simonovic",
+    "time": "CHI"
+  },
+  {
+    "id": "1629014",
+    "nome": "A.Simons",
+    "nomeCompleto": "Anfernee Simons",
+    "time": "POR"
+  },
+  {
+    "id": "1630579",
+    "nome": "J.Sims",
+    "nomeCompleto": "Jericho Sims",
+    "time": "NYK"
+  },
+  {
+    "id": "1629686",
+    "nome": "D.Sirvydis",
+    "nomeCompleto": "Deividas Sirvydis"
+  },
+  {
+    "id": "1630606",
+    "nome": "J.Smart",
+    "nomeCompleto": "Javonte Smart"
+  },
+  {
+    "id": "203935",
+    "nome": "M.Smart",
+    "nomeCompleto": "Marcus Smart",
+    "time": "BOS"
+  },
+  {
+    "id": "1630607",
+    "nome": "C.Smith",
+    "nomeCompleto": "Chris Smith",
+    "time": "DET"
+  },
+  {
+    "id": "202397",
+    "nome": "I.Smith",
+    "nomeCompleto": "Ish Smith",
+    "time": "CHA"
+  },
+  {
+    "id": "1630188",
+    "nome": "J.Smith",
+    "nomeCompleto": "Jalen Smith",
+    "time": "PHX"
+  },
+  {
+    "id": "1628372",
+    "nome": "D.Smith",
+    "nomeCompleto": "Dennis Smith Jr.",
+    "time": "POR"
+  },
+  {
+    "id": "1630270",
+    "nome": "X.Sneed",
+    "nomeCompleto": "Xavier Sneed"
+  },
+  {
+    "id": "203503",
+    "nome": "T.Snell",
+    "nomeCompleto": "Tony Snell",
+    "time": "POR"
+  },
+  {
+    "id": "1630531",
+    "nome": "J.Springer",
+    "nomeCompleto": "Jaden Springer",
+    "time": "PHI"
+  },
+  {
+    "id": "1630199",
+    "nome": "C.Stanley",
+    "nomeCompleto": "Cassius Stanley",
+    "time": "DET"
+  },
+  {
+    "id": "203917",
+    "nome": "N.Stauskas",
+    "nomeCompleto": "Nik Stauskas"
+  },
+  {
+    "id": "202362",
+    "nome": "L.Stephenson",
+    "nomeCompleto": "Lance Stephenson",
+    "time": "IND"
+  },
+  {
+    "id": "1630205",
+    "nome": "L.Stevens",
+    "nomeCompleto": "Lamar Stevens",
+    "time": "CLE"
+  },
+  {
+    "id": "1630191",
+    "nome": "I.Stewart",
+    "nomeCompleto": "Isaiah Stewart",
+    "time": "DET"
+  },
+  {
+    "id": "1629622",
+    "nome": "M.Strus",
+    "nomeCompleto": "Max Strus",
+    "time": "MIA"
+  },
+  {
+    "id": "1630591",
+    "nome": "J.Suggs",
+    "nomeCompleto": "Jalen Suggs",
+    "time": "ORL"
+  },
+  {
+    "id": "1628591",
+    "nome": "C.Sword",
+    "nomeCompleto": "Craig Sword"
+  },
+  {
+    "id": "1626208",
+    "nome": "K.Sykes",
+    "nomeCompleto": "Keifer Sykes",
+    "time": "IND"
+  },
+  {
+    "id": "1630256",
+    "nome": "J.Tate",
+    "nomeCompleto": "Jae'Sean Tate",
+    "time": "HOU"
+  },
+  {
+    "id": "1628369",
+    "nome": "J.Tatum",
+    "nomeCompleto": "Jayson Tatum",
+    "time": "BOS"
+  },
+  {
+    "id": "1630678",
+    "nome": "T.Taylor",
+    "nomeCompleto": "Terry Taylor",
+    "time": "IND"
+  },
+  {
+    "id": "202066",
+    "nome": "G.Temple",
+    "nomeCompleto": "Garrett Temple",
+    "time": "NOP"
+  },
+  {
+    "id": "1629150",
+    "nome": "E.Terry",
+    "nomeCompleto": "Emanuel Terry"
+  },
+  {
+    "id": "1630179",
+    "nome": "T.Terry",
+    "nomeCompleto": "Tyrell Terry",
+    "time": "MEM"
+  },
+  {
+    "id": "1630257",
+    "nome": "J.Teske",
+    "nomeCompleto": "Jon Teske"
+  },
+  {
+    "id": "1628464",
+    "nome": "D.Theis",
+    "nomeCompleto": "Daniel Theis",
+    "time": "HOU"
+  },
+  {
+    "id": "1630271",
+    "nome": "B.Thomas",
+    "nomeCompleto": "Brodric Thomas",
+    "time": "BOS"
+  },
+  {
+    "id": "1630560",
+    "nome": "C.Thomas",
+    "nomeCompleto": "Cam Thomas",
+    "time": "BKN"
+  },
+  {
+    "id": "202738",
+    "nome": "I.Thomas",
+    "nomeCompleto": "Isaiah Thomas"
+  },
+  {
+    "id": "1629744",
+    "nome": "M.Thomas",
+    "nomeCompleto": "Matt Thomas",
+    "time": "CHI"
+  },
+  {
+    "id": "202691",
+    "nome": "K.Thompson",
+    "nomeCompleto": "Klay Thompson",
+    "time": "GSW"
+  },
+  {
+    "id": "202684",
+    "nome": "T.Thompson",
+    "nomeCompleto": "Tristan Thompson",
+    "time": "SAC"
+  },
+  {
+    "id": "1630550",
+    "nome": "J.Thor",
+    "nomeCompleto": "JT Thor",
+    "time": "CHA"
+  },
+  {
+    "id": "1629680",
+    "nome": "M.Thybulle",
+    "nomeCompleto": "Matisse Thybulle",
+    "time": "PHI"
+  },
+  {
+    "id": "1629681",
+    "nome": "K.Tillie",
+    "nomeCompleto": "Killian Tillie",
+    "time": "MEM"
+  },
+  {
+    "id": "1630214",
+    "nome": "X.Tillman",
+    "nomeCompleto": "Xavier Tillman",
+    "time": "MEM"
+  },
+  {
+    "id": "1630225",
+    "nome": "I.Todd",
+    "nomeCompleto": "Isaiah Todd",
+    "time": "WAS"
+  },
+  {
+    "id": "1630167",
+    "nome": "O.Toppin",
+    "nomeCompleto": "Obi Toppin",
+    "time": "NYK"
+  },
+  {
+    "id": "1629308",
+    "nome": "J.Toscano-Anderson",
+    "nomeCompleto": "Juan Toscano-Anderson",
+    "time": "GSW"
+  },
+  {
+    "id": "1626157",
+    "nome": "K.Towns",
+    "nomeCompleto": "Karl-Anthony Towns",
+    "time": "MIN"
+  },
+  {
+    "id": "1629018",
+    "nome": "G.Trent",
+    "nomeCompleto": "Gary Trent Jr.",
+    "time": "TOR"
+  },
+  {
+    "id": "200782",
+    "nome": "P.Tucker",
+    "nomeCompleto": "P.J. Tucker",
+    "time": "MIA"
+  },
+  {
+    "id": "1629730",
+    "nome": "R.Tucker",
+    "nomeCompleto": "Rayjon Tucker"
+  },
+  {
+    "id": "1626167",
+    "nome": "M.Turner",
+    "nomeCompleto": "Myles Turner",
+    "time": "IND"
+  },
+  {
+    "id": "202685",
+    "nome": "J.Valanciunas",
+    "nomeCompleto": "Jonas Valanciunas",
+    "time": "NOP"
+  },
+  {
+    "id": "1627756",
+    "nome": "D.Valentine",
+    "nomeCompleto": "Denzel Valentine"
+  },
+  {
+    "id": "1627832",
+    "nome": "F.VanVleet",
+    "nomeCompleto": "Fred VanVleet",
+    "time": "TOR"
+  },
+  {
+    "id": "1629020",
+    "nome": "J.Vanderbilt",
+    "nomeCompleto": "Jarred Vanderbilt",
+    "time": "MIN"
+  },
+  {
+    "id": "1630170",
+    "nome": "D.Vassell",
+    "nomeCompleto": "Devin Vassell",
+    "time": "SAS"
+  },
+  {
+    "id": "1629216",
+    "nome": "G.Vincent",
+    "nomeCompleto": "Gabe Vincent",
+    "time": "MIA"
+  },
+  {
+    "id": "202696",
+    "nome": "N.Vucevic",
+    "nomeCompleto": "Nikola Vucevic",
+    "time": "CHI"
+  },
+  {
+    "id": "1629731",
+    "nome": "D.Wade",
+    "nomeCompleto": "Dean Wade",
+    "time": "CLE"
+  },
+  {
+    "id": "1630532",
+    "nome": "F.Wagner",
+    "nomeCompleto": "Franz Wagner",
+    "time": "ORL"
+  },
+  {
+    "id": "1629021",
+    "nome": "M.Wagner",
+    "nomeCompleto": "Moritz Wagner",
+    "time": "ORL"
+  },
+  {
+    "id": "1630688",
+    "nome": "I.Wainright",
+    "nomeCompleto": "Ish Wainright",
+    "time": "PHX"
+  },
+  {
+    "id": "202689",
+    "nome": "K.Walker",
+    "nomeCompleto": "Kemba Walker",
+    "time": "NYK"
+  },
+  {
+    "id": "1630640",
+    "nome": "M.Walker",
+    "nomeCompleto": "MJ Walker"
+  },
+  {
+    "id": "1629022",
+    "nome": "L.Walker",
+    "nomeCompleto": "Lonnie Walker IV",
+    "time": "SAS"
+  },
+  {
+    "id": "202322",
+    "nome": "J.Wall",
+    "nomeCompleto": "John Wall",
+    "time": "HOU"
+  },
+  {
+    "id": "1628476",
+    "nome": "D.Walton",
+    "nomeCompleto": "Derrick Walton Jr."
+  },
+  {
+    "id": "202954",
+    "nome": "B.Wanamaker",
+    "nomeCompleto": "Brad Wanamaker"
+  },
+  {
+    "id": "203933",
+    "nome": "T.Warren",
+    "nomeCompleto": "T.J. Warren",
+    "time": "IND"
+  },
+  {
+    "id": "1629023",
+    "nome": "P.Washington",
+    "nomeCompleto": "P.J. Washington",
+    "time": "CHA"
+  },
+  {
+    "id": "1630613",
+    "nome": "D.Washington",
+    "nomeCompleto": "Duane Washington Jr.",
+    "time": "IND"
+  },
+  {
+    "id": "1629139",
+    "nome": "Y.Watanabe",
+    "nomeCompleto": "Yuta Watanabe",
+    "time": "TOR"
+  },
+  {
+    "id": "1629682",
+    "nome": "T.Waters",
+    "nomeCompleto": "Tremont Waters"
+  },
+  {
+    "id": "1630570",
+    "nome": "T.Watford",
+    "nomeCompleto": "Trendon Watford",
+    "time": "POR"
+  },
+  {
+    "id": "1628778",
+    "nome": "P.Watson",
+    "nomeCompleto": "Paul Watson",
+    "time": "OKC"
+  },
+  {
+    "id": "1629683",
+    "nome": "Q.Weatherspoon",
+    "nomeCompleto": "Quinndary Weatherspoon",
+    "time": "GSW"
+  },
+  {
+    "id": "201566",
+    "nome": "R.Westbrook",
+    "nomeCompleto": "Russell Westbrook",
+    "time": "LAL"
+  },
+  {
+    "id": "1629632",
+    "nome": "C.White",
+    "nomeCompleto": "Coby White",
+    "time": "CHI"
+  },
+  {
+    "id": "1628401",
+    "nome": "D.White",
+    "nomeCompleto": "Derrick White",
+    "time": "SAS"
+  },
+  {
+    "id": "202355",
+    "nome": "H.Whiteside",
+    "nomeCompleto": "Hassan Whiteside",
+    "time": "UTA"
+  },
+  {
+    "id": "1630580",
+    "nome": "J.Wieskamp",
+    "nomeCompleto": "Joe Wieskamp",
+    "time": "SAS"
+  },
+  {
+    "id": "1630598",
+    "nome": "A.Wiggins",
+    "nomeCompleto": "Aaron Wiggins",
+    "time": "OKC"
+  },
+  {
+    "id": "203952",
+    "nome": "A.Wiggins",
+    "nomeCompleto": "Andrew Wiggins",
+    "time": "GSW"
+  },
+  {
+    "id": "1629623",
+    "nome": "L.Wigginton",
+    "nomeCompleto": "Lindell Wigginton",
+    "time": "MIL"
+  },
+  {
+    "id": "1630314",
+    "nome": "B.Williams",
+    "nomeCompleto": "Brandon Williams"
+  },
+  {
+    "id": "1629684",
+    "nome": "G.Williams",
+    "nomeCompleto": "Grant Williams",
+    "time": "BOS"
+  },
+  {
+    "id": "1629026",
+    "nome": "K.Williams",
+    "nomeCompleto": "Kenrich Williams",
+    "time": "OKC"
+  },
+  {
+    "id": "101150",
+    "nome": "L.Williams",
+    "nomeCompleto": "Lou Williams",
+    "time": "ATL"
+  },
+  {
+    "id": "1630172",
+    "nome": "P.Williams",
+    "nomeCompleto": "Patrick Williams",
+    "time": "CHI"
+  },
+  {
+    "id": "1630533",
+    "nome": "Z.Williams",
+    "nomeCompleto": "Ziaire Williams",
+    "time": "MEM"
+  },
+  {
+    "id": "1629057",
+    "nome": "R.Williams",
+    "nomeCompleto": "Robert Williams III",
+    "time": "BOS"
+  },
+  {
+    "id": "1629627",
+    "nome": "Z.Williamson",
+    "nomeCompleto": "Zion Williamson",
+    "time": "NOP"
+  },
+  {
+    "id": "1628391",
+    "nome": "D.Wilson",
+    "nomeCompleto": "D.J. Wilson"
+  },
+  {
+    "id": "1629685",
+    "nome": "D.Windler",
+    "nomeCompleto": "Dylan Windler",
+    "time": "CLE"
+  },
+  {
+    "id": "1626159",
+    "nome": "J.Winslow",
+    "nomeCompleto": "Justise Winslow",
+    "time": "LAC"
+  },
+  {
+    "id": "1630216",
+    "nome": "C.Winston",
+    "nomeCompleto": "Cassius Winston",
+    "time": "WAS"
+  },
+  {
+    "id": "1630164",
+    "nome": "J.Wiseman",
+    "nomeCompleto": "James Wiseman",
+    "time": "GSW"
+  },
+  {
+    "id": "1626174",
+    "nome": "C.Wood",
+    "nomeCompleto": "Christian Wood",
+    "time": "HOU"
+  },
+  {
+    "id": "1630218",
+    "nome": "R.Woodard",
+    "nomeCompleto": "Robert Woodard II",
+    "time": "SAC"
+  },
+  {
+    "id": "1626153",
+    "nome": "D.Wright",
+    "nomeCompleto": "Delon Wright",
+    "time": "ATL"
+  },
+  {
+    "id": "1630589",
+    "nome": "M.Wright",
+    "nomeCompleto": "Moses Wright"
+  },
+  {
+    "id": "1630593",
+    "nome": "M.Wright",
+    "nomeCompleto": "McKinley Wright IV",
+    "time": "MIN"
+  },
+  {
+    "id": "201152",
+    "nome": "T.Young",
+    "nomeCompleto": "Thaddeus Young",
+    "time": "SAS"
+  },
+  {
+    "id": "1629027",
+    "nome": "T.Young",
+    "nomeCompleto": "Trae Young",
+    "time": "ATL"
+  },
+  {
+    "id": "1630209",
+    "nome": "O.Yurtseven",
+    "nomeCompleto": "Omer Yurtseven",
+    "time": "MIA"
+  },
+  {
+    "id": "203469",
+    "nome": "C.Zeller",
+    "nomeCompleto": "Cody Zeller",
+    "time": "POR"
+  },
+  {
+    "id": "1627826",
+    "nome": "I.Zubac",
+    "nomeCompleto": "Ivica Zubac",
+    "time": "LAC"
+  }
+]

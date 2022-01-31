@@ -1,0 +1,786 @@
+[
+  {
+    "id": "jwKvKhGa",
+    "resultados": [
+      {
+        "data": "27.01. 20:00",
+        "campeonato": "Campeonato Paulista",
+        "oponente": "Mirassol",
+        "resultado": "L",
+        "mando": "fora",
+        "placar": "3-1",
+        "gols": 4
+      },
+      {
+        "data": "09.12.2021",
+        "campeonato": "Serie A",
+        "oponente": "Internacional",
+        "resultado": "W",
+        "mando": "casa",
+        "placar": "1-0",
+        "gols": 1
+      },
+      {
+        "data": "05.12.2021",
+        "campeonato": "Serie A",
+        "oponente": "Atletico-MG",
+        "resultado": "L",
+        "mando": "fora",
+        "placar": "4-3",
+        "gols": 7
+      },
+      {
+        "data": "30.11.2021",
+        "campeonato": "Serie A",
+        "oponente": "Juventude",
+        "resultado": "L",
+        "mando": "fora",
+        "placar": "1-0",
+        "gols": 1
+      },
+      {
+        "data": "27.11.2021",
+        "campeonato": "Serie A",
+        "oponente": "America MG",
+        "resultado": "D",
+        "mando": "casa",
+        "placar": "1-1",
+        "gols": 2
+      },
+      {
+        "data": "20.11.2021",
+        "campeonato": "Copa Sudamericana",
+        "oponente": "Athletico-PR (Bra)",
+        "resultado": "L",
+        "mando": "fora",
+        "placar": "1-0",
+        "gols": 1
+      },
+      {
+        "data": "16.11.2021",
+        "campeonato": "Serie A",
+        "oponente": "Gremio",
+        "resultado": "L",
+        "mando": "fora",
+        "placar": "3-0",
+        "gols": 3
+      },
+      {
+        "data": "13.11.2021",
+        "campeonato": "Serie A",
+        "oponente": "Fortaleza",
+        "resultado": "W",
+        "mando": "casa",
+        "placar": "3-0",
+        "gols": 3
+      },
+      {
+        "data": "10.11.2021",
+        "campeonato": "Serie A",
+        "oponente": "Santos",
+        "resultado": "L",
+        "mando": "fora",
+        "placar": "2-0",
+        "gols": 2
+      },
+      {
+        "data": "07.11.2021",
+        "campeonato": "Serie A",
+        "oponente": "Athletico-PR",
+        "resultado": "L",
+        "mando": "casa",
+        "placar": "0-2",
+        "gols": 2
+      },
+      {
+        "data": "01.11.2021",
+        "campeonato": "Serie A",
+        "oponente": "Cuiaba",
+        "resultado": "L",
+        "mando": "fora",
+        "placar": "1-0",
+        "gols": 1
+      },
+      {
+        "data": "28.10.2021",
+        "campeonato": "Serie A",
+        "oponente": "Sport Recife",
+        "resultado": "W",
+        "mando": "casa",
+        "placar": "3-0",
+        "gols": 3
+      },
+      {
+        "data": "24.10.2021",
+        "campeonato": "Serie A",
+        "oponente": "Sao Paulo",
+        "resultado": "W",
+        "mando": "casa",
+        "placar": "1-0",
+        "gols": 1
+      },
+      {
+        "data": "21.10.2021",
+        "campeonato": "Serie A",
+        "oponente": "Internacional",
+        "resultado": "D",
+        "mando": "fora",
+        "placar": "1-1",
+        "gols": 2
+      },
+      {
+        "data": "17.10.2021",
+        "campeonato": "Serie A",
+        "oponente": "Ceara",
+        "resultado": "D",
+        "mando": "fora",
+        "placar": "2-2",
+        "gols": 4
+      },
+      {
+        "data": "12.10.2021",
+        "campeonato": "Serie A",
+        "oponente": "Atletico GO",
+        "resultado": "W",
+        "mando": "casa",
+        "placar": "1-0",
+        "gols": 1
+      },
+      {
+        "data": "09.10.2021",
+        "campeonato": "Serie A",
+        "oponente": "Palmeiras",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "2-4",
+        "gols": 6
+      },
+      {
+        "data": "06.10.2021",
+        "campeonato": "Serie A",
+        "oponente": "Flamengo RJ",
+        "resultado": "D",
+        "mando": "casa",
+        "placar": "1-1",
+        "gols": 2
+      },
+      {
+        "data": "02.10.2021",
+        "campeonato": "Serie A",
+        "oponente": "Corinthians",
+        "resultado": "D",
+        "mando": "casa",
+        "placar": "2-2",
+        "gols": 4
+      },
+      {
+        "data": "29.09.2021",
+        "campeonato": "Copa Sudamericana",
+        "oponente": "Libertad Asuncion (Par)",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "1-3",
+        "gols": 4
+      },
+      {
+        "data": "26.09.2021",
+        "campeonato": "Serie A",
+        "oponente": "Fluminense",
+        "resultado": "L",
+        "mando": "fora",
+        "placar": "2-1",
+        "gols": 3
+      },
+      {
+        "data": "22.09.2021",
+        "campeonato": "Copa Sudamericana",
+        "oponente": "Bragantino (Bra)",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "2-0",
+        "gols": 2
+      },
+      {
+        "data": "18.09.2021",
+        "campeonato": "Serie A",
+        "oponente": "Bahia",
+        "resultado": "D",
+        "mando": "fora",
+        "placar": "1-1",
+        "gols": 2
+      },
+      {
+        "data": "11.09.2021",
+        "campeonato": "Serie A",
+        "oponente": "Chapecoense-SC",
+        "resultado": "L",
+        "mando": "casa",
+        "placar": "1-2",
+        "gols": 3
+      },
+      {
+        "data": "29.08.2021",
+        "campeonato": "Serie A",
+        "oponente": "Atletico-MG",
+        "resultado": "D",
+        "mando": "casa",
+        "placar": "1-1",
+        "gols": 2
+      },
+      {
+        "data": "23.08.2021",
+        "campeonato": "Serie A",
+        "oponente": "America MG",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "0-2",
+        "gols": 2
+      },
+      {
+        "data": "17.08.2021",
+        "campeonato": "Copa Sudamericana",
+        "oponente": "Bragantino (Bra)",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "1-0",
+        "gols": 1
+      },
+      {
+        "data": "14.08.2021",
+        "campeonato": "Serie A",
+        "oponente": "Juventude",
+        "resultado": "L",
+        "mando": "casa",
+        "placar": "1-2",
+        "gols": 3
+      },
+      {
+        "data": "10.08.2021",
+        "campeonato": "Copa Sudamericana",
+        "oponente": "Rosario Central (Arg)",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "3-4",
+        "gols": 7
+      },
+      {
+        "data": "06.08.2021",
+        "campeonato": "Serie A",
+        "oponente": "Sport Recife",
+        "resultado": "D",
+        "mando": "fora",
+        "placar": "0-0",
+        "gols": 0
+      },
+      {
+        "data": "31.07.2021",
+        "campeonato": "Serie A",
+        "oponente": "Gremio",
+        "resultado": "W",
+        "mando": "casa",
+        "placar": "1-0",
+        "gols": 1
+      },
+      {
+        "data": "25.07.2021",
+        "campeonato": "Serie A",
+        "oponente": "Fortaleza",
+        "resultado": "L",
+        "mando": "fora",
+        "placar": "1-0",
+        "gols": 1
+      },
+      {
+        "data": "21.07.2021",
+        "campeonato": "Copa Sudamericana",
+        "oponente": "Bragantino (Bra)",
+        "resultado": "D",
+        "mando": "fora",
+        "placar": "1-1",
+        "gols": 2
+      },
+      {
+        "data": "18.07.2021",
+        "campeonato": "Serie A",
+        "oponente": "Santos",
+        "resultado": "D",
+        "mando": "casa",
+        "placar": "2-2",
+        "gols": 4
+      },
+      {
+        "data": "14.07.2021",
+        "campeonato": "Copa Sudamericana",
+        "oponente": "Ind. del Valle (Ecu)",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "0-2",
+        "gols": 2
+      },
+      {
+        "data": "10.07.2021",
+        "campeonato": "Serie A",
+        "oponente": "Athletico-PR",
+        "resultado": "D",
+        "mando": "fora",
+        "placar": "2-2",
+        "gols": 4
+      },
+      {
+        "data": "07.07.2021",
+        "campeonato": "Serie A",
+        "oponente": "Cuiaba",
+        "resultado": "D",
+        "mando": "casa",
+        "placar": "1-1",
+        "gols": 2
+      },
+      {
+        "data": "04.07.2021",
+        "campeonato": "Serie A",
+        "oponente": "Sao Paulo",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "1-2",
+        "gols": 3
+      },
+      {
+        "data": "01.07.2021",
+        "campeonato": "Serie A",
+        "oponente": "Ceara",
+        "resultado": "D",
+        "mando": "casa",
+        "placar": "0-0",
+        "gols": 0
+      },
+      {
+        "data": "28.06.2021",
+        "campeonato": "Serie A",
+        "oponente": "Atletico GO",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "0-1",
+        "gols": 1
+      },
+      {
+        "data": "23.06.2021",
+        "campeonato": "Serie A",
+        "oponente": "Palmeiras",
+        "resultado": "W",
+        "mando": "casa",
+        "placar": "3-1",
+        "gols": 4
+      },
+      {
+        "data": "19.06.2021",
+        "campeonato": "Serie A",
+        "oponente": "Flamengo RJ",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "2-3",
+        "gols": 5
+      },
+      {
+        "data": "16.06.2021",
+        "campeonato": "Serie A",
+        "oponente": "Corinthians",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "1-2",
+        "gols": 3
+      }
+    ]
+  },
+  {
+    "id": "WMZyrhsE",
+    "resultados": [
+      {
+        "data": "27.01. 20:00",
+        "campeonato": "Campeonato Paulista",
+        "oponente": "Mirassol",
+        "resultado": "L",
+        "mando": "fora",
+        "placar": "3-1",
+        "gols": 4
+      },
+      {
+        "data": "09.12.2021",
+        "campeonato": "Serie A",
+        "oponente": "Internacional",
+        "resultado": "W",
+        "mando": "casa",
+        "placar": "1-0",
+        "gols": 1
+      },
+      {
+        "data": "05.12.2021",
+        "campeonato": "Serie A",
+        "oponente": "Atletico-MG",
+        "resultado": "L",
+        "mando": "fora",
+        "placar": "4-3",
+        "gols": 7
+      },
+      {
+        "data": "30.11.2021",
+        "campeonato": "Serie A",
+        "oponente": "Juventude",
+        "resultado": "L",
+        "mando": "fora",
+        "placar": "1-0",
+        "gols": 1
+      },
+      {
+        "data": "27.11.2021",
+        "campeonato": "Serie A",
+        "oponente": "America MG",
+        "resultado": "D",
+        "mando": "casa",
+        "placar": "1-1",
+        "gols": 2
+      },
+      {
+        "data": "20.11.2021",
+        "campeonato": "Copa Sudamericana",
+        "oponente": "Athletico-PR (Bra)",
+        "resultado": "L",
+        "mando": "fora",
+        "placar": "1-0",
+        "gols": 1
+      },
+      {
+        "data": "16.11.2021",
+        "campeonato": "Serie A",
+        "oponente": "Gremio",
+        "resultado": "L",
+        "mando": "fora",
+        "placar": "3-0",
+        "gols": 3
+      },
+      {
+        "data": "13.11.2021",
+        "campeonato": "Serie A",
+        "oponente": "Fortaleza",
+        "resultado": "W",
+        "mando": "casa",
+        "placar": "3-0",
+        "gols": 3
+      },
+      {
+        "data": "10.11.2021",
+        "campeonato": "Serie A",
+        "oponente": "Santos",
+        "resultado": "L",
+        "mando": "fora",
+        "placar": "2-0",
+        "gols": 2
+      },
+      {
+        "data": "07.11.2021",
+        "campeonato": "Serie A",
+        "oponente": "Athletico-PR",
+        "resultado": "L",
+        "mando": "casa",
+        "placar": "0-2",
+        "gols": 2
+      },
+      {
+        "data": "01.11.2021",
+        "campeonato": "Serie A",
+        "oponente": "Cuiaba",
+        "resultado": "L",
+        "mando": "fora",
+        "placar": "1-0",
+        "gols": 1
+      },
+      {
+        "data": "28.10.2021",
+        "campeonato": "Serie A",
+        "oponente": "Sport Recife",
+        "resultado": "W",
+        "mando": "casa",
+        "placar": "3-0",
+        "gols": 3
+      },
+      {
+        "data": "24.10.2021",
+        "campeonato": "Serie A",
+        "oponente": "Sao Paulo",
+        "resultado": "W",
+        "mando": "casa",
+        "placar": "1-0",
+        "gols": 1
+      },
+      {
+        "data": "21.10.2021",
+        "campeonato": "Serie A",
+        "oponente": "Internacional",
+        "resultado": "D",
+        "mando": "fora",
+        "placar": "1-1",
+        "gols": 2
+      },
+      {
+        "data": "17.10.2021",
+        "campeonato": "Serie A",
+        "oponente": "Ceara",
+        "resultado": "D",
+        "mando": "fora",
+        "placar": "2-2",
+        "gols": 4
+      },
+      {
+        "data": "12.10.2021",
+        "campeonato": "Serie A",
+        "oponente": "Atletico GO",
+        "resultado": "W",
+        "mando": "casa",
+        "placar": "1-0",
+        "gols": 1
+      },
+      {
+        "data": "09.10.2021",
+        "campeonato": "Serie A",
+        "oponente": "Palmeiras",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "2-4",
+        "gols": 6
+      },
+      {
+        "data": "06.10.2021",
+        "campeonato": "Serie A",
+        "oponente": "Flamengo RJ",
+        "resultado": "D",
+        "mando": "casa",
+        "placar": "1-1",
+        "gols": 2
+      },
+      {
+        "data": "02.10.2021",
+        "campeonato": "Serie A",
+        "oponente": "Corinthians",
+        "resultado": "D",
+        "mando": "casa",
+        "placar": "2-2",
+        "gols": 4
+      },
+      {
+        "data": "29.09.2021",
+        "campeonato": "Copa Sudamericana",
+        "oponente": "Libertad Asuncion (Par)",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "1-3",
+        "gols": 4
+      },
+      {
+        "data": "26.09.2021",
+        "campeonato": "Serie A",
+        "oponente": "Fluminense",
+        "resultado": "L",
+        "mando": "fora",
+        "placar": "2-1",
+        "gols": 3
+      },
+      {
+        "data": "22.09.2021",
+        "campeonato": "Copa Sudamericana",
+        "oponente": "Bragantino (Bra)",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "2-0",
+        "gols": 2
+      },
+      {
+        "data": "18.09.2021",
+        "campeonato": "Serie A",
+        "oponente": "Bahia",
+        "resultado": "D",
+        "mando": "fora",
+        "placar": "1-1",
+        "gols": 2
+      },
+      {
+        "data": "11.09.2021",
+        "campeonato": "Serie A",
+        "oponente": "Chapecoense-SC",
+        "resultado": "L",
+        "mando": "casa",
+        "placar": "1-2",
+        "gols": 3
+      },
+      {
+        "data": "29.08.2021",
+        "campeonato": "Serie A",
+        "oponente": "Atletico-MG",
+        "resultado": "D",
+        "mando": "casa",
+        "placar": "1-1",
+        "gols": 2
+      },
+      {
+        "data": "23.08.2021",
+        "campeonato": "Serie A",
+        "oponente": "America MG",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "0-2",
+        "gols": 2
+      },
+      {
+        "data": "17.08.2021",
+        "campeonato": "Copa Sudamericana",
+        "oponente": "Bragantino (Bra)",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "1-0",
+        "gols": 1
+      },
+      {
+        "data": "14.08.2021",
+        "campeonato": "Serie A",
+        "oponente": "Juventude",
+        "resultado": "L",
+        "mando": "casa",
+        "placar": "1-2",
+        "gols": 3
+      },
+      {
+        "data": "10.08.2021",
+        "campeonato": "Copa Sudamericana",
+        "oponente": "Rosario Central (Arg)",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "3-4",
+        "gols": 7
+      },
+      {
+        "data": "06.08.2021",
+        "campeonato": "Serie A",
+        "oponente": "Sport Recife",
+        "resultado": "D",
+        "mando": "fora",
+        "placar": "0-0",
+        "gols": 0
+      },
+      {
+        "data": "31.07.2021",
+        "campeonato": "Serie A",
+        "oponente": "Gremio",
+        "resultado": "W",
+        "mando": "casa",
+        "placar": "1-0",
+        "gols": 1
+      },
+      {
+        "data": "25.07.2021",
+        "campeonato": "Serie A",
+        "oponente": "Fortaleza",
+        "resultado": "L",
+        "mando": "fora",
+        "placar": "1-0",
+        "gols": 1
+      },
+      {
+        "data": "21.07.2021",
+        "campeonato": "Copa Sudamericana",
+        "oponente": "Bragantino (Bra)",
+        "resultado": "D",
+        "mando": "fora",
+        "placar": "1-1",
+        "gols": 2
+      },
+      {
+        "data": "18.07.2021",
+        "campeonato": "Serie A",
+        "oponente": "Santos",
+        "resultado": "D",
+        "mando": "casa",
+        "placar": "2-2",
+        "gols": 4
+      },
+      {
+        "data": "14.07.2021",
+        "campeonato": "Copa Sudamericana",
+        "oponente": "Ind. del Valle (Ecu)",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "0-2",
+        "gols": 2
+      },
+      {
+        "data": "10.07.2021",
+        "campeonato": "Serie A",
+        "oponente": "Athletico-PR",
+        "resultado": "D",
+        "mando": "fora",
+        "placar": "2-2",
+        "gols": 4
+      },
+      {
+        "data": "07.07.2021",
+        "campeonato": "Serie A",
+        "oponente": "Cuiaba",
+        "resultado": "D",
+        "mando": "casa",
+        "placar": "1-1",
+        "gols": 2
+      },
+      {
+        "data": "04.07.2021",
+        "campeonato": "Serie A",
+        "oponente": "Sao Paulo",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "1-2",
+        "gols": 3
+      },
+      {
+        "data": "01.07.2021",
+        "campeonato": "Serie A",
+        "oponente": "Ceara",
+        "resultado": "D",
+        "mando": "casa",
+        "placar": "0-0",
+        "gols": 0
+      },
+      {
+        "data": "28.06.2021",
+        "campeonato": "Serie A",
+        "oponente": "Atletico GO",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "0-1",
+        "gols": 1
+      },
+      {
+        "data": "23.06.2021",
+        "campeonato": "Serie A",
+        "oponente": "Palmeiras",
+        "resultado": "W",
+        "mando": "casa",
+        "placar": "3-1",
+        "gols": 4
+      },
+      {
+        "data": "19.06.2021",
+        "campeonato": "Serie A",
+        "oponente": "Flamengo RJ",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "2-3",
+        "gols": 5
+      },
+      {
+        "data": "16.06.2021",
+        "campeonato": "Serie A",
+        "oponente": "Corinthians",
+        "resultado": "W",
+        "mando": "fora",
+        "placar": "1-2",
+        "gols": 3
+      }
+    ]
+  }
+]

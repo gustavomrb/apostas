@@ -1,0 +1,21 @@
+{
+  "name": "apostas-nba",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "futebol": "node ./geradores/futebol/br.mjs",
+    "nba": "node ./geradores/nba/nba.mjs"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "lodash": "^4.17.21",
+    "moment-timezone": "^0.5.34",
+    "morgan": "~1.9.1",
+    "puppeteer": "^13.1.2"
+  }
+}

@@ -127,7 +127,7 @@ async function adicionaResultadosTimes(jogos, page) {
       console.log("buscouResultados");
       resultadosJson.push({
         id: jogo.fora.id,
-        resultados: await adicionaResultadosTime(jogo.casa, page),
+        resultados: await adicionaResultadosTime(jogo.fora, page),
       });
     }
   }

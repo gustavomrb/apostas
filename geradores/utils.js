@@ -16,17 +16,17 @@ const propNames = {
 
 const listaProps = ["pts", "reb", "ast", "fg3m", "stl", "blk", "ptsRebAst", "ptsReb", "ptsAst", "rebAst", "stlBlk"];
 
-function converterParaDecimal(american) {
+const converterParaDecimal = (american) => {
   let valor = parseInt(american);
   valor = valor > 0 ? 1 + valor / 100 : 1 - 100 / valor;
   return valor.toFixed(2);
-}
+};
 
-function converterPraProbabilidade(decimalOdd) {
+const converterPraProbabilidade = (decimalOdd) => {
   return ((1 / parseFloat(decimalOdd)) * 100).toFixed(1);
-}
+};
 
-function geraParametrosNba(parametrosArg) {
+const geraParametrosNba = (parametrosArg) => {
   const parametros = {
     DateFrom: "",
     DateTo: "",
@@ -61,9 +61,9 @@ function geraParametrosNba(parametrosArg) {
   }
 
   return new URLSearchParams(parametros);
-}
+};
 
-function geraOptionsNba() {
+const geraOptionsNba = () => {
   return {
     method: "GET",
     headers: {
@@ -86,9 +86,9 @@ function geraOptionsNba() {
       "Accept-Language": "en-US,en;q=0.9",
     },
   };
-}
+};
 
-function geraOptionsAction() {
+const geraOptionsAction = () => {
   return {
     method: "GET",
     headers: {
@@ -100,7 +100,7 @@ function geraOptionsAction() {
       "user-agent": "node-fetch",
     },
   };
-}
+};
 
 const timesNBA = [
   {
@@ -255,7 +255,7 @@ const timesNBA = [
   },
 ];
 
-export {
+module.exports = {
   propNames,
   converterParaDecimal,
   converterPraProbabilidade,

@@ -13,7 +13,7 @@ import {
 import _ from "lodash";
 import moment from "moment-timezone";
 
-const jogadoresLinks = JSON.parse(fs.readFileSync("./jogadoresComId.json"));
+const jogadoresLinks = JSON.parse(fs.readFileSync("./geradores/nba/jogadoresComId.json"));
 let jogosDoDia = [];
 try {
   jogosDoDia = fs.readFileSync("C:\\Users\\Gustavo\\Documents\\Projects\\apostas-nba-react\\src\\jogosDoDia.json");
@@ -25,7 +25,7 @@ try {
 }
 
 (async () => {
-  const idJogos = [108776];
+  const idJogos = [108707, 108709];
   for (let idJogo of idJogos) {
     let jogoAnterior = jogosDoDia.find((j) => j.id === idJogo);
     const jogo = jogoAnterior ? jogoAnterior : {};

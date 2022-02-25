@@ -3,9 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www",
+    "start": "nodemon ./bin/www",
     "futebol": "node ./geradores/futebol/br.mjs",
-    "nba": "node ./geradores/nba/nba.mjs"
+    "nba": "node ./geradores/nba/nba.mjs",
+    "tenis": "node ./geradores/tenis/tenis.js"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
@@ -18,6 +19,7 @@
     "lodash": "^4.17.21",
     "moment-timezone": "^0.5.34",
     "morgan": "~1.9.1",
+    "nodemon": "^2.0.15",
     "puppeteer": "^13.1.2"
   }
 }

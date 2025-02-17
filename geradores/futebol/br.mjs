@@ -1,5 +1,12 @@
-import puppeteer from "puppeteer";
+import puppeteer from "puppeteer-extra";
 import fs from "fs";
+
+import StealthPlugin from "puppeteer-extra-plugin-stealth";
+puppeteer.use(StealthPlugin());
+
+// Add adblocker plugin to block all ads and trackers (saves bandwidth)
+import AdblockerPlugin from "puppeteer-extra-plugin-adblocker";
+puppeteer.use(AdblockerPlugin({ blockTrackers: true }));
 
 let timesJson = [];
 try {
@@ -24,7 +31,7 @@ try {
 (async () => {
   const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
-  await page.goto("https://www.flashscore.com/");
+  await page.goto("https://www.flashscore.com.br/");
   await page.waitForSelector(".sportName.soccer");
   await page.waitForSelector("#onetrust-accept-btn-handler");
   (await page.$("#onetrust-accept-btn-handler")).click();
@@ -34,54 +41,12 @@ try {
   for (let divAtual of divs) {
     const paisCampeonato = await divAtual.$eval(".event__title--type", (n) => n.innerText);
     const nomeCampeonato = await divAtual.$eval(".event__title--name", (n) => n.innerText.split(" - ")[0]);
-    const paisesCampeonato = [
-      "TURKEY",
-      "ENGLAND",
-      "SPAIN",
-      "CROATIA",
-      "ITALY",
-      "GERMANY",
-      "NETHERLANDS",
-      "PORTUGAL",
-      "BRAZIL",
-      "PERU",
-      "BOLIVIA",
-      "FRANCE",
-      "CHILE",
-      "URUGUAY",
-      "COLOMBIA",
-      "PARAGUAY",
-    ];
-    const nomesCampeonato = [
-      "Super Lig",
-      "Premier League",
-      "LaLiga",
-      "1. HNL",
-      "Serie A",
-      "Bundesliga",
-      "Eredivisie",
-      "Liga Portugal",
-      "Campeonato Cearense",
-      "Campeonato Mineiro",
-      "Liga 1",
-      "Division Profesional",
-      "Campeonato Baiano",
-      "Campeonato Capixaba",
-      "Campeonato Paulista",
-      "Campeonato Sergipano",
-      "Copa do Nordeste",
-      "Campeonato Amazonense",
-      "Campeonato Catarinense",
-      "Campeonato Gaucho",
-      "Campeonato Goiano",
-      "Ligue 1",
-      "Primera Division",
-      "Primera A",
-    ];
+    const paisesCampeonato = ["BRASIL"];
+    const nomesCampeonato = ["Baiano", "Potiguar"];
     if (paisesCampeonato.includes(paisCampeonato) && nomesCampeonato.includes(nomeCampeonato)) {
       const abaFechada = await divAtual.$(".event__expander--close");
       if (abaFechada) {
-        await divAtual.click();
+        await abaFechada.click();
         await page.waitForTimeout(1000);
       }
       let nextSibling = await divAtual.getProperty("nextSibling");
@@ -159,8 +124,8 @@ async function adicionaIdsTimes(jogos, page) {
       );
       jogo.casa.link = links[0];
       jogo.fora.link = links[1];
-      jogo.casa.id = jogo.casa.link.split("/").at(-1);
-      jogo.fora.id = jogo.fora.link.split("/").at(-1);
+      jogo.casa.id = jogo.casa.link.split("/").at(-2);
+      jogo.fora.id = jogo.fora.link.split("/").at(-2);
       timesJson.push(jogo.casa);
       timesJson.push(jogo.fora);
     }
@@ -216,7 +181,7 @@ async function adicionaResultadosTime(time, page) {
         data = `${data.split(".")[0]}.${data.split(".")[1]}.${data.split(".")[2].split("\n")[0]}`;
       }
       const oponente = times.find((t) => t !== time.nome);
-      const resultado = await nextSibling.$eval(".wld", (n) => n.innerText);
+      const resultado = await nextSibling.$eval(".formIcon__lastMatches", (n) => n.innerText);
       const mando = times[0] === time.nome ? "casa" : "fora";
 
       const placarHome = parseInt(await nextSibling.$eval(".event__score--home", (n) => n.innerText));

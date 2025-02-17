@@ -542,7 +542,7 @@
   {
     "nome": "Wydad",
     "pais": "MOROCCO",
-    "link": "/wydad/2yuuwjkA",
+    "link": "/wydad-athletic/2yuuwjkA",
     "id": "2yuuwjkA"
   },
   {
@@ -3026,8 +3026,8 @@
   {
     "nome": "Jacuipense",
     "pais": "BRAZIL",
-    "link": "/jacuipense/MResdxxf",
-    "id": "MResdxxf"
+    "link": "/jacuipense/MResdxxf/",
+    "id": ""
   },
   {
     "nome": "Vitoria da Conquista",
@@ -3238,5 +3238,2165 @@
     "pais": "PARAGUAY",
     "link": "/tacuary/hxhlylJj",
     "id": "hxhlylJj"
+  },
+  {
+    "nome": "Gaziantep",
+    "pais": "TURKEY",
+    "link": "/gaziantep/ITkIKZ7q",
+    "id": "ITkIKZ7q"
+  },
+  {
+    "nome": "Hatayspor",
+    "pais": "TURKEY",
+    "link": "/hatayspor/ENFkH8NH",
+    "id": "ENFkH8NH"
+  },
+  {
+    "nome": "Kayserispor",
+    "pais": "TURKEY",
+    "link": "/kayserispor/8pwUEwoc",
+    "id": "8pwUEwoc"
+  },
+  {
+    "nome": "Alanyaspor",
+    "pais": "TURKEY",
+    "link": "/alanyaspor/IcN8oPcJ",
+    "id": "IcN8oPcJ"
+  },
+  {
+    "nome": "Radnicki Nis",
+    "pais": "SERBIA",
+    "link": "/radnicki-nis/boQpIML6",
+    "id": "boQpIML6"
+  },
+  {
+    "nome": "Kolubara",
+    "pais": "SERBIA",
+    "link": "/kolubara/lfpx3sup",
+    "id": "lfpx3sup"
+  },
+  {
+    "nome": "Aarhus",
+    "pais": "DENMARK",
+    "link": "/aarhus/OOXnKGbO",
+    "id": "OOXnKGbO"
+  },
+  {
+    "nome": "Nordsjaelland",
+    "pais": "DENMARK",
+    "link": "/nordsjaelland/2wZHnGDH",
+    "id": "2wZHnGDH"
+  },
+  {
+    "nome": "Zamalek",
+    "pais": "EGYPT",
+    "link": "/zamalek/Qk0VR4IS",
+    "id": "Qk0VR4IS"
+  },
+  {
+    "nome": "El Gouna",
+    "pais": "EGYPT",
+    "link": "/el-gouna/EHDG5a4M",
+    "id": "EHDG5a4M"
+  },
+  {
+    "nome": "Cavalier",
+    "pais": "JAMAICA",
+    "link": "/cavalier/UuOW3jq1",
+    "id": "UuOW3jq1"
+  },
+  {
+    "nome": "Dunbeholden",
+    "pais": "JAMAICA",
+    "link": "/fc-dunbeholden/ULAHJbS6",
+    "id": "ULAHJbS6"
+  },
+  {
+    "nome": "Montego Bay",
+    "pais": "JAMAICA",
+    "link": "/montego-bay/pSsPYXRh",
+    "id": "pSsPYXRh"
+  },
+  {
+    "nome": "Portmore",
+    "pais": "JAMAICA",
+    "link": "/portmore/pfDrVtbe",
+    "id": "pfDrVtbe"
+  },
+  {
+    "nome": "Legia",
+    "pais": "POLAND",
+    "link": "/legia/K6kUepBs",
+    "id": "K6kUepBs"
+  },
+  {
+    "nome": "Slask Wroclaw",
+    "pais": "POLAND",
+    "link": "/slask-wroclaw/E1Oxemse",
+    "id": "E1Oxemse"
+  },
+  {
+    "nome": "Maccabi Tel Aviv",
+    "pais": "ISRAEL",
+    "link": "/maccabi-tel-aviv/req5XE5Q",
+    "id": "req5XE5Q"
+  },
+  {
+    "nome": "Beitar Jerusalem",
+    "pais": "ISRAEL",
+    "link": "/beitar-jerusalem/t2BgeFT0",
+    "id": "t2BgeFT0"
+  },
+  {
+    "nome": "Univ. Craiova",
+    "pais": "ROMANIA",
+    "link": "/univ-craiova/bsd9fGaK",
+    "id": "bsd9fGaK"
+  },
+  {
+    "nome": "Farul Constanta",
+    "pais": "ROMANIA",
+    "link": "/farul-constanta/CrJbN1Pa",
+    "id": "CrJbN1Pa"
+  },
+  {
+    "nome": "Jong Ajax",
+    "pais": "NETHERLANDS",
+    "link": "/jong-ajax/GncWwxTm",
+    "id": "GncWwxTm"
+  },
+  {
+    "nome": "Den Haag",
+    "pais": "NETHERLANDS",
+    "link": "/den-haag/lAgLCkT3",
+    "id": "lAgLCkT3"
+  },
+  {
+    "nome": "Jong AZ",
+    "pais": "NETHERLANDS",
+    "link": "/jong-az-alkmaar/lKIgIV5b",
+    "id": "lKIgIV5b"
+  },
+  {
+    "nome": "Telstar",
+    "pais": "NETHERLANDS",
+    "link": "/telstar/Aw0qTPat",
+    "id": "Aw0qTPat"
+  },
+  {
+    "nome": "Jong PSV",
+    "pais": "NETHERLANDS",
+    "link": "/jong-psv/8Au8eRom",
+    "id": "8Au8eRom"
+  },
+  {
+    "nome": "FC Emmen",
+    "pais": "NETHERLANDS",
+    "link": "/fc-emmen/Stafar0g",
+    "id": "Stafar0g"
+  },
+  {
+    "nome": "Jong Utrecht",
+    "pais": "NETHERLANDS",
+    "link": "/jong-utrecht/2J6mntb0",
+    "id": "2J6mntb0"
+  },
+  {
+    "nome": "Almere City",
+    "pais": "NETHERLANDS",
+    "link": "/almere-city/IsK0b0aI",
+    "id": "IsK0b0aI"
+  },
+  {
+    "nome": "U. San Martin",
+    "pais": "PERU",
+    "link": "/u-san-martin/2yYthCYB",
+    "id": "2yYthCYB"
+  },
+  {
+    "nome": "Grau",
+    "pais": "PERU",
+    "link": "/atletico-grau/6o4srhvP",
+    "id": "6o4srhvP"
+  },
+  {
+    "nome": "Binacional",
+    "pais": "PERU",
+    "link": "/binacional/lAu3Dhr0",
+    "id": "lAu3Dhr0"
+  },
+  {
+    "nome": "ADT Tarma",
+    "pais": "PERU",
+    "link": "/adt-tarma/EsfgJz9N",
+    "id": "EsfgJz9N"
+  },
+  {
+    "nome": "Tondela",
+    "pais": "PORTUGAL",
+    "link": "/tondela/nFFgCnVo",
+    "id": "nFFgCnVo"
+  },
+  {
+    "nome": "Belenenses",
+    "pais": "PORTUGAL",
+    "link": "/belenenses/fyrUnmpP",
+    "id": "fyrUnmpP"
+  },
+  {
+    "nome": "Al-Fateh",
+    "pais": "SAUDI ARABIA",
+    "link": "/al-fateh/OIDqIbjd",
+    "id": "OIDqIbjd"
+  },
+  {
+    "nome": "Abha",
+    "pais": "SAUDI ARABIA",
+    "link": "/abha/lnEqnhJf",
+    "id": "lnEqnhJf"
+  },
+  {
+    "nome": "Al-Taawon",
+    "pais": "SAUDI ARABIA",
+    "link": "/al-taawon/WjJkJilj",
+    "id": "WjJkJilj"
+  },
+  {
+    "nome": "Al-Faisaly",
+    "pais": "SAUDI ARABIA",
+    "link": "/al-faisaly/AsIgIB3d",
+    "id": "AsIgIB3d"
+  },
+  {
+    "nome": "Real Santander W",
+    "pais": "COLOMBIA",
+    "link": "/real-santander/UTkDNG4l",
+    "id": "UTkDNG4l"
+  },
+  {
+    "nome": "Orsomarso W",
+    "pais": "COLOMBIA",
+    "link": "/orsomarso/fwgWAXue",
+    "id": "fwgWAXue"
+  },
+  {
+    "nome": "Deportes Tolima W",
+    "pais": "COLOMBIA",
+    "link": "/deportes-tolima/vVQk9Rr7",
+    "id": "vVQk9Rr7"
+  },
+  {
+    "nome": "Bucaramanga W",
+    "pais": "COLOMBIA",
+    "link": "/bucaramanga/KnTQ7u04",
+    "id": "KnTQ7u04"
+  },
+  {
+    "nome": "Fortaleza W",
+    "pais": "COLOMBIA",
+    "link": "/fortaleza/841aFJKL",
+    "id": "841aFJKL"
+  },
+  {
+    "nome": "Santa Fe W",
+    "pais": "COLOMBIA",
+    "link": "/indep-santa-fe/jcfEecbA",
+    "id": "jcfEecbA"
+  },
+  {
+    "nome": "Ind. Medellin W",
+    "pais": "COLOMBIA",
+    "link": "/ind-medellin/CxsDTFXP",
+    "id": "CxsDTFXP"
+  },
+  {
+    "nome": "Dep. Cali W",
+    "pais": "COLOMBIA",
+    "link": "/dep-cali/O0R1l3uG",
+    "id": "O0R1l3uG"
+  },
+  {
+    "nome": "America de Cali W",
+    "pais": "COLOMBIA",
+    "link": "/america-de-cali/Q9RoAthL",
+    "id": "Q9RoAthL"
+  },
+  {
+    "nome": "Atl. Nacional W",
+    "pais": "COLOMBIA",
+    "link": "/atl-nacional/QqMTUljK",
+    "id": "QqMTUljK"
+  },
+  {
+    "nome": "Al Sailiya",
+    "pais": "QATAR",
+    "link": "/al-sailiya/4xuOqBYn",
+    "id": "4xuOqBYn"
+  },
+  {
+    "nome": "Al-Gharafa",
+    "pais": "QATAR",
+    "link": "/al-gharafa/SQrTeoKd",
+    "id": "SQrTeoKd"
+  },
+  {
+    "nome": "Qatar SC",
+    "pais": "QATAR",
+    "link": "/qatar-sc/YglhkXAP",
+    "id": "YglhkXAP"
+  },
+  {
+    "nome": "Al Khor",
+    "pais": "QATAR",
+    "link": "/al-khor/rTwSrVmg",
+    "id": "rTwSrVmg"
+  },
+  {
+    "nome": "Umm-Salal",
+    "pais": "QATAR",
+    "link": "/umm-salal/xW8i8U05",
+    "id": "xW8i8U05"
+  },
+  {
+    "nome": "Al Arabi",
+    "pais": "QATAR",
+    "link": "/al-arabi/ltmcRTII",
+    "id": "ltmcRTII"
+  },
+  {
+    "nome": "Mura",
+    "pais": "SLOVENIA",
+    "link": "/mura/bL3DSo9L",
+    "id": "bL3DSo9L"
+  },
+  {
+    "nome": "O. Ljubljana",
+    "pais": "SLOVENIA",
+    "link": "/o-ljubljana/hr3HR5OR",
+    "id": "hr3HR5OR"
+  },
+  {
+    "nome": "Al Sharjah",
+    "pais": "UNITED ARAB EMIRATES",
+    "link": "/al-sharjah/YqFkJ2t6",
+    "id": "YqFkJ2t6"
+  },
+  {
+    "nome": "Ajman",
+    "pais": "UNITED ARAB EMIRATES",
+    "link": "/ajman/CtP7yoRa",
+    "id": "CtP7yoRa"
+  },
+  {
+    "nome": "Budafoki",
+    "pais": "HUNGARY",
+    "link": "/budafoki-mte/ncCrJwbI",
+    "id": "ncCrJwbI"
+  },
+  {
+    "nome": "Kecskemeti TE",
+    "pais": "HUNGARY",
+    "link": "/kecskemeti-te/vsq0Rrxm",
+    "id": "vsq0Rrxm"
+  },
+  {
+    "nome": "Fulham",
+    "pais": "ENGLAND",
+    "link": "/fulham/69ZiU2Om",
+    "id": "69ZiU2Om"
+  },
+  {
+    "nome": "Luton",
+    "pais": "ENGLAND",
+    "link": "/luton/SlybbadF",
+    "id": "SlybbadF"
+  },
+  {
+    "nome": "Leganes",
+    "pais": "SPAIN",
+    "link": "/leganes/Mi0rXQg7",
+    "id": "Mi0rXQg7"
+  },
+  {
+    "nome": "Huesca",
+    "pais": "SPAIN",
+    "link": "/huesca/UytPaaEP",
+    "id": "UytPaaEP"
+  },
+  {
+    "nome": "Valladolid",
+    "pais": "SPAIN",
+    "link": "/valladolid/zkpajjvm",
+    "id": "zkpajjvm"
+  },
+  {
+    "nome": "R. Sociedad B",
+    "pais": "SPAIN",
+    "link": "/r-sociedad/UJOGLItN",
+    "id": "UJOGLItN"
+  },
+  {
+    "nome": "Cukaricki",
+    "pais": "SERBIA",
+    "link": "/cukaricki/tEBfcZh3",
+    "id": "tEBfcZh3"
+  },
+  {
+    "nome": "Radnicki Nis",
+    "pais": "SERBIA",
+    "link": "/radnicki-nis/boQpIML6",
+    "id": "boQpIML6"
+  },
+  {
+    "nome": "Lok. Sofia",
+    "pais": "BULGARIA",
+    "link": "/lok-sofia/xp9SXWBG",
+    "id": "xp9SXWBG"
+  },
+  {
+    "nome": "Tsarsko Selo",
+    "pais": "BULGARIA",
+    "link": "/tsarsko-selo/f5L4S0kI",
+    "id": "f5L4S0kI"
+  },
+  {
+    "nome": "Silkeborg",
+    "pais": "DENMARK",
+    "link": "/silkeborg/4dCl8IE5",
+    "id": "4dCl8IE5"
+  },
+  {
+    "nome": "Aalborg",
+    "pais": "DENMARK",
+    "link": "/aalborg/U1YrLdqI",
+    "id": "U1YrLdqI"
+  },
+  {
+    "nome": "Hapoel Tel Aviv",
+    "pais": "ISRAEL",
+    "link": "/hapoel-tel-aviv/jigstDrf",
+    "id": "jigstDrf"
+  },
+  {
+    "nome": "Maccabi Haifa",
+    "pais": "ISRAEL",
+    "link": "/maccabi-haifa/zVucZzyE",
+    "id": "zVucZzyE"
+  },
+  {
+    "nome": "FCSB",
+    "pais": "ROMANIA",
+    "link": "/fcsb/Gv2kjDpN",
+    "id": "Gv2kjDpN"
+  },
+  {
+    "nome": "FC Arges",
+    "pais": "ROMANIA",
+    "link": "/campionii-arges/65I2MLv6",
+    "id": "65I2MLv6"
+  },
+  {
+    "nome": "Moto Club",
+    "pais": "BRAZIL",
+    "link": "/moto-club/WnwkP1M3",
+    "id": "WnwkP1M3"
+  },
+  {
+    "nome": "SE Juventude",
+    "pais": "BRAZIL",
+    "link": "/se-juventude/KQ2AtJpg",
+    "id": "KQ2AtJpg"
+  },
+  {
+    "nome": "Oeste",
+    "pais": "BRAZIL",
+    "link": "/oeste/tQ88OG0l",
+    "id": "tQ88OG0l"
+  },
+  {
+    "nome": "Cianorte",
+    "pais": "BRAZIL",
+    "link": "/cianorte/h2lQyfW7",
+    "id": "h2lQyfW7"
+  },
+  {
+    "nome": "Trem",
+    "pais": "BRAZIL",
+    "link": "/trem/GGpeNM7q",
+    "id": "GGpeNM7q"
+  },
+  {
+    "nome": "Amazonas",
+    "pais": "BRAZIL",
+    "link": "/amazonas/zk9LAfeq",
+    "id": "zk9LAfeq"
+  },
+  {
+    "nome": "B. Monchengladbach",
+    "pais": "GERMANY",
+    "link": "/b-monchengladbach/88HSzjDr",
+    "id": "88HSzjDr"
+  },
+  {
+    "nome": "RB Leipzig",
+    "pais": "GERMANY",
+    "link": "/rb-leipzig/KbS1suSm",
+    "id": "KbS1suSm"
+  },
+  {
+    "nome": "Godoy Cruz",
+    "pais": "ARGENTINA",
+    "link": "/godoy-cruz/tUAxIm6l",
+    "id": "tUAxIm6l"
+  },
+  {
+    "nome": "Central Cordoba",
+    "pais": "ARGENTINA",
+    "link": "/central-cordoba-santiago-del-estero/0dHZReql",
+    "id": "0dHZReql"
+  },
+  {
+    "nome": "Union de Santa Fe",
+    "pais": "ARGENTINA",
+    "link": "/union-de-santa-fe/lr2YMkTK",
+    "id": "lr2YMkTK"
+  },
+  {
+    "nome": "Defensa y Justicia",
+    "pais": "ARGENTINA",
+    "link": "/defensa-y-justicia/Gdfv0Zsh",
+    "id": "Gdfv0Zsh"
+  },
+  {
+    "nome": "Platense",
+    "pais": "ARGENTINA",
+    "link": "/platense/80MMdBdN",
+    "id": "80MMdBdN"
+  },
+  {
+    "nome": "Argentinos Jrs",
+    "pais": "ARGENTINA",
+    "link": "/argentinos-jrs/QuxS0ahA",
+    "id": "QuxS0ahA"
+  },
+  {
+    "nome": "Excursionistas",
+    "pais": "ARGENTINA",
+    "link": "/excursionistas/lGgXrqMm",
+    "id": "lGgXrqMm"
+  },
+  {
+    "nome": "Puerto Nuevo",
+    "pais": "ARGENTINA",
+    "link": "/puerto-nuevo/YFOGdO4t",
+    "id": "YFOGdO4t"
+  },
+  {
+    "nome": "Midland",
+    "pais": "ARGENTINA",
+    "link": "/midland/S6GdhCh4",
+    "id": "S6GdhCh4"
+  },
+  {
+    "nome": "Berazategui",
+    "pais": "ARGENTINA",
+    "link": "/berazategui/t8g6xUQT",
+    "id": "t8g6xUQT"
+  },
+  {
+    "nome": "Sportivo Italiano",
+    "pais": "ARGENTINA",
+    "link": "/sportivo-italiano/6FhebHdd",
+    "id": "6FhebHdd"
+  },
+  {
+    "nome": "San Martin Burzaco",
+    "pais": "ARGENTINA",
+    "link": "/san-martin-burzaco/lUMGvZZ2",
+    "id": "lUMGvZZ2"
+  },
+  {
+    "nome": "Molynes",
+    "pais": "JAMAICA",
+    "link": "/molynes-united/EqamFmnd",
+    "id": "EqamFmnd"
+  },
+  {
+    "nome": "Waterhouse",
+    "pais": "JAMAICA",
+    "link": "/waterhouse/jL5z86u6",
+    "id": "jL5z86u6"
+  },
+  {
+    "nome": "Harbour View",
+    "pais": "JAMAICA",
+    "link": "/harbour-view/tnfra3K8",
+    "id": "tnfra3K8"
+  },
+  {
+    "nome": "Cavalier",
+    "pais": "JAMAICA",
+    "link": "/cavalier/UuOW3jq1",
+    "id": "UuOW3jq1"
+  },
+  {
+    "nome": "Toluca W",
+    "pais": "MEXICO",
+    "link": "/toluca/dnXZML8p",
+    "id": "dnXZML8p"
+  },
+  {
+    "nome": "U.N.A.M.- Pumas W",
+    "pais": "MEXICO",
+    "link": "/u-n-a-m-pumas/xMYREBaD",
+    "id": "xMYREBaD"
+  },
+  {
+    "nome": "Guadalajara Chivas W",
+    "pais": "MEXICO",
+    "link": "/guadalajara-chivas/bPpdMFsK",
+    "id": "bPpdMFsK"
+  },
+  {
+    "nome": "Monterrey W",
+    "pais": "MEXICO",
+    "link": "/monterrey/CE4Qf9AJ",
+    "id": "CE4Qf9AJ"
+  },
+  {
+    "nome": "Santos Laguna W",
+    "pais": "MEXICO",
+    "link": "/santos-laguna/hE1DkGNu",
+    "id": "hE1DkGNu"
+  },
+  {
+    "nome": "Mazatlan FC W",
+    "pais": "MEXICO",
+    "link": "/mazatlan-fc/4AbEbdag",
+    "id": "4AbEbdag"
+  },
+  {
+    "nome": "Club Tijuana W",
+    "pais": "MEXICO",
+    "link": "/club-tijuana/zsGcWCUm",
+    "id": "zsGcWCUm"
+  },
+  {
+    "nome": "Juarez W",
+    "pais": "MEXICO",
+    "link": "/juarez/bF1UsapR",
+    "id": "bF1UsapR"
+  },
+  {
+    "nome": "Botafogo SP",
+    "pais": "BRAZIL",
+    "link": "/botafogo-sp/2yRUzy5N",
+    "id": "2yRUzy5N"
+  },
+  {
+    "nome": "Floresta EC",
+    "pais": "BRAZIL",
+    "link": "/floresta-ec/6cfVpFuD",
+    "id": "6cfVpFuD"
+  },
+  {
+    "nome": "Atletico-MG W",
+    "pais": "BRAZIL",
+    "link": "/atletico-mg/tzr2c1F9",
+    "id": "tzr2c1F9"
+  },
+  {
+    "nome": "Santos W",
+    "pais": "BRAZIL",
+    "link": "/santos/MJMWMFRI",
+    "id": "MJMWMFRI"
+  },
+  {
+    "nome": "Nagoya Grampus",
+    "pais": "JAPAN",
+    "link": "/nagoya-grampus/6BeXoaup",
+    "id": "6BeXoaup"
+  },
+  {
+    "nome": "Kyoto",
+    "pais": "JAPAN",
+    "link": "/kyoto/fZS33RAH",
+    "id": "fZS33RAH"
+  },
+  {
+    "nome": "Sanfrecce Hiroshima",
+    "pais": "JAPAN",
+    "link": "/sanfrecce-hiroshima/fX7MRdvd",
+    "id": "fX7MRdvd"
+  },
+  {
+    "nome": "Kashiwa Reysol",
+    "pais": "JAPAN",
+    "link": "/kashiwa-reysol/hEbtKvnM",
+    "id": "hEbtKvnM"
+  },
+  {
+    "nome": "Kashima Antlers",
+    "pais": "JAPAN",
+    "link": "/kashima-antlers/4nNKlKo9",
+    "id": "4nNKlKo9"
+  },
+  {
+    "nome": "Iwata",
+    "pais": "JAPAN",
+    "link": "/iwata/QeOGk0W2",
+    "id": "QeOGk0W2"
+  },
+  {
+    "nome": "Sagan Tosu",
+    "pais": "JAPAN",
+    "link": "/sagan-tosu/nsRRyAda",
+    "id": "nsRRyAda"
+  },
+  {
+    "nome": "Cerezo Osaka",
+    "pais": "JAPAN",
+    "link": "/cerezo-osaka/rJJl6Vtt",
+    "id": "rJJl6Vtt"
+  },
+  {
+    "nome": "Shonan Bellmare",
+    "pais": "JAPAN",
+    "link": "/shonan-bellmare/SIV5o8tI",
+    "id": "SIV5o8tI"
+  },
+  {
+    "nome": "Shimizu S-Pulse",
+    "pais": "JAPAN",
+    "link": "/shimizu-s-pulse/vPgupwAd",
+    "id": "vPgupwAd"
+  },
+  {
+    "nome": "Avispa Fukuoka",
+    "pais": "JAPAN",
+    "link": "/avispa-fukuoka/SdMQZTB5",
+    "id": "SdMQZTB5"
+  },
+  {
+    "nome": "FC Tokyo",
+    "pais": "JAPAN",
+    "link": "/fc-tokyo/8zCQQGg2",
+    "id": "8zCQQGg2"
+  },
+  {
+    "nome": "Feutcheu",
+    "pais": "CAMEROON",
+    "link": "/feutcheu-djiko/pvQ1oXzg",
+    "id": "pvQ1oXzg"
+  },
+  {
+    "nome": "Stade Renard",
+    "pais": "CAMEROON",
+    "link": "/stade-renard/G87EIVIl",
+    "id": "G87EIVIl"
+  },
+  {
+    "nome": "Fauve Azur Elite",
+    "pais": "CAMEROON",
+    "link": "/fauve-azur-elite/xbAIWGw5",
+    "id": "xbAIWGw5"
+  },
+  {
+    "nome": "Colombe",
+    "pais": "CAMEROON",
+    "link": "/colombe/27xPRZxk",
+    "id": "27xPRZxk"
+  },
+  {
+    "nome": "Yong Sports Academy",
+    "pais": "CAMEROON",
+    "link": "/yong-sports/GMBWxkqT",
+    "id": "GMBWxkqT"
+  },
+  {
+    "nome": "Tonnerre",
+    "pais": "CAMEROON",
+    "link": "/tonnerre/A3XYIod2",
+    "id": "A3XYIod2"
+  },
+  {
+    "nome": "APEJES Academy",
+    "pais": "CAMEROON",
+    "link": "/apejes-academy/zqydjywf",
+    "id": "zqydjywf"
+  },
+  {
+    "nome": "Union Douala",
+    "pais": "CAMEROON",
+    "link": "/union-douala/jTsPWvKd",
+    "id": "jTsPWvKd"
+  },
+  {
+    "nome": "Bafoussam",
+    "pais": "CAMEROON",
+    "link": "/bafoussam/QFZSkVge",
+    "id": "QFZSkVge"
+  },
+  {
+    "nome": "Canon Yaounde",
+    "pais": "CAMEROON",
+    "link": "/canon-yaounde/48ckmHOC",
+    "id": "48ckmHOC"
+  },
+  {
+    "nome": "Mezokovesd-Zsory",
+    "pais": "HUNGARY",
+    "link": "/mezokovesd-zsory/Wl17PM6a",
+    "id": "Wl17PM6a"
+  },
+  {
+    "nome": "Debrecen",
+    "pais": "HUNGARY",
+    "link": "/debrecen/8KymAhn2",
+    "id": "8KymAhn2"
+  },
+  {
+    "nome": "MOL Fehervar",
+    "pais": "HUNGARY",
+    "link": "/mol-fehervar-fc/MctUvj1e",
+    "id": "MctUvj1e"
+  },
+  {
+    "nome": "Honved",
+    "pais": "HUNGARY",
+    "link": "/honved/fHXrBYWe",
+    "id": "fHXrBYWe"
+  },
+  {
+    "nome": "Gokulam",
+    "pais": "INDIA",
+    "link": "/gokulam/v7CtJpbN",
+    "id": "v7CtJpbN"
+  },
+  {
+    "nome": "Neroca FC",
+    "pais": "INDIA",
+    "link": "/neroca/lrwryfsP",
+    "id": "lrwryfsP"
+  },
+  {
+    "nome": "Kukesi",
+    "pais": "ALBANIA",
+    "link": "/kukesi/AqdUTxEC",
+    "id": "AqdUTxEC"
+  },
+  {
+    "nome": "Partizani",
+    "pais": "ALBANIA",
+    "link": "/partizani/IFgZ7CIA",
+    "id": "IFgZ7CIA"
+  },
+  {
+    "nome": "Qarabag",
+    "pais": "AZERBAIJAN",
+    "link": "/qarabag-agdam/Qgd3eSin",
+    "id": "Qgd3eSin"
+  },
+  {
+    "nome": "Sabah Baku",
+    "pais": "AZERBAIJAN",
+    "link": "/sabah-baku/fNGcxbyr",
+    "id": "fNGcxbyr"
+  },
+  {
+    "nome": "Zeljeznicar Banja Luka",
+    "pais": "BOSNIA AND HERZEGOVINA",
+    "link": "/zeljeznicar-banja-luka/dfJScUIK",
+    "id": "dfJScUIK"
+  },
+  {
+    "nome": "Modrica",
+    "pais": "BOSNIA AND HERZEGOVINA",
+    "link": "/modrica/2FN1v8IP",
+    "id": "2FN1v8IP"
+  },
+  {
+    "nome": "Inter Turku",
+    "pais": "FINLAND",
+    "link": "/inter-turku/QwkNUoNH",
+    "id": "QwkNUoNH"
+  },
+  {
+    "nome": "HJK",
+    "pais": "FINLAND",
+    "link": "/hjk/nmjJVR7B",
+    "id": "nmjJVR7B"
+  },
+  {
+    "nome": "Dila Gori",
+    "pais": "GEORGIA",
+    "link": "/dila-gori/2kvaMIqb",
+    "id": "2kvaMIqb"
+  },
+  {
+    "nome": "Torpedo Kutaisi",
+    "pais": "GEORGIA",
+    "link": "/torpedo-kutaisi/UHabwVgn",
+    "id": "UHabwVgn"
+  },
+  {
+    "nome": "Dinamo Tbilisi",
+    "pais": "GEORGIA",
+    "link": "/dinamo-tbilisi/I7RM1rTm",
+    "id": "I7RM1rTm"
+  },
+  {
+    "nome": "Dinamo Batumi",
+    "pais": "GEORGIA",
+    "link": "/dinamo-batumi/ttw3Lxa4",
+    "id": "ttw3Lxa4"
+  },
+  {
+    "nome": "Saburtalo Tbilisi",
+    "pais": "GEORGIA",
+    "link": "/saburtalo-tbilisi/dhfRkskl",
+    "id": "dhfRkskl"
+  },
+  {
+    "nome": "Gagra",
+    "pais": "GEORGIA",
+    "link": "/gagra/dYj1Mrtj",
+    "id": "dYj1Mrtj"
+  },
+  {
+    "nome": "Telavi",
+    "pais": "GEORGIA",
+    "link": "/telavi/hUtF5X6H",
+    "id": "hUtF5X6H"
+  },
+  {
+    "nome": "Bolnisi",
+    "pais": "GEORGIA",
+    "link": "/bolnisi/U7p9spIF",
+    "id": "U7p9spIF"
+  },
+  {
+    "nome": "Kaizer Chiefs",
+    "pais": "SOUTH AFRICA",
+    "link": "/kaizer-chiefs/fFZ2CGx0",
+    "id": "fFZ2CGx0"
+  },
+  {
+    "nome": "Marumo Gallants",
+    "pais": "SOUTH AFRICA",
+    "link": "/marumo-gallants/Gnghzo3C",
+    "id": "Gnghzo3C"
+  },
+  {
+    "nome": "Guayaquil SC",
+    "pais": "ECUADOR",
+    "link": "/guayaquil-sc/Gh9tQBfG",
+    "id": "Gh9tQBfG"
+  },
+  {
+    "nome": "America de Quito",
+    "pais": "ECUADOR",
+    "link": "/america-de-quito/pKiKALRA",
+    "id": "pKiKALRA"
+  },
+  {
+    "nome": "Caracas",
+    "pais": "SOUTH AMERICA",
+    "link": "/caracas/l6AbuB1S",
+    "id": "l6AbuB1S"
+  },
+  {
+    "nome": "Libertad Asuncion",
+    "pais": "SOUTH AMERICA",
+    "link": "/libertad-asuncion/bPwvqhd4",
+    "id": "bPwvqhd4"
+  },
+  {
+    "nome": "Dep. Tachira",
+    "pais": "SOUTH AMERICA",
+    "link": "/dep-tachira/t8oez9vd",
+    "id": "t8oez9vd"
+  },
+  {
+    "nome": "Emelec",
+    "pais": "SOUTH AMERICA",
+    "link": "/emelec/8namOvgI",
+    "id": "8namOvgI"
+  },
+  {
+    "nome": "The Strongest",
+    "pais": "SOUTH AMERICA",
+    "link": "/the-strongest/Wfi42xS2",
+    "id": "Wfi42xS2"
+  },
+  {
+    "nome": "Athletico-PR",
+    "pais": "SOUTH AMERICA",
+    "link": "/athletico-pr/UoAxb1Tq",
+    "id": "UoAxb1Tq"
+  },
+  {
+    "nome": "America MG",
+    "pais": "SOUTH AMERICA",
+    "link": "/america-mg/xUT0Bp8o",
+    "id": "xUT0Bp8o"
+  },
+  {
+    "nome": "Atletico-MG",
+    "pais": "SOUTH AMERICA",
+    "link": "/atletico-mg/hGLC5Bah",
+    "id": "hGLC5Bah"
+  },
+  {
+    "nome": "Estudiantes L.P.",
+    "pais": "SOUTH AMERICA",
+    "link": "/estudiantes-l-p/p2SkCHXs",
+    "id": "p2SkCHXs"
+  },
+  {
+    "nome": "Nacional",
+    "pais": "SOUTH AMERICA",
+    "link": "/club-nacional/UaVu2MhA",
+    "id": "UaVu2MhA"
+  },
+  {
+    "nome": "Independiente Petrolero",
+    "pais": "SOUTH AMERICA",
+    "link": "/independiente-petrolero/fRYTIR1C",
+    "id": "fRYTIR1C"
+  },
+  {
+    "nome": "Palmeiras",
+    "pais": "SOUTH AMERICA",
+    "link": "/palmeiras/hMn9FTbH",
+    "id": "hMn9FTbH"
+  },
+  {
+    "nome": "Cuiaba",
+    "pais": "SOUTH AMERICA",
+    "link": "/cuiaba/zVvjqDOo",
+    "id": "zVvjqDOo"
+  },
+  {
+    "nome": "Racing Club",
+    "pais": "SOUTH AMERICA",
+    "link": "/racing-club/OhapHPm9",
+    "id": "OhapHPm9"
+  },
+  {
+    "nome": "River Plate",
+    "pais": "SOUTH AMERICA",
+    "link": "/river-plate-montevideo/CI1JPnYR",
+    "id": "CI1JPnYR"
+  },
+  {
+    "nome": "FBC Melgar",
+    "pais": "SOUTH AMERICA",
+    "link": "/fbc-melgar/IZO9NXIh",
+    "id": "IZO9NXIh"
+  },
+  {
+    "nome": "Ceara",
+    "pais": "SOUTH AMERICA",
+    "link": "/ceara/p0JrJCV5",
+    "id": "p0JrJCV5"
+  },
+  {
+    "nome": "La Guaira",
+    "pais": "SOUTH AMERICA",
+    "link": "/deportivo-la-guaira/4SRaHjat",
+    "id": "4SRaHjat"
+  },
+  {
+    "nome": "General Caballero JLM",
+    "pais": "SOUTH AMERICA",
+    "link": "/general-caballero-jlm/GYxobEi0",
+    "id": "GYxobEi0"
+  },
+  {
+    "nome": "Independiente",
+    "pais": "SOUTH AMERICA",
+    "link": "/independiente/UVatI5Y2",
+    "id": "UVatI5Y2"
+  },
+  {
+    "nome": "Nueve de Octubre",
+    "pais": "SOUTH AMERICA",
+    "link": "/nueve-de-octubre/2VHQWiAb",
+    "id": "2VHQWiAb"
+  },
+  {
+    "nome": "Ind. Medellin",
+    "pais": "SOUTH AMERICA",
+    "link": "/ind-medellin/p2ADRKlk",
+    "id": "p2ADRKlk"
+  },
+  {
+    "nome": "Blaublitz",
+    "pais": "JAPAN",
+    "link": "/blaublitz/fwDHgzFc",
+    "id": "fwDHgzFc"
+  },
+  {
+    "nome": "Ryukyu",
+    "pais": "JAPAN",
+    "link": "/ryukyu/tM115Db3",
+    "id": "tM115Db3"
+  },
+  {
+    "nome": "Grulla Morioka",
+    "pais": "JAPAN",
+    "link": "/iwate-grulla-morioka/ldnuNilP",
+    "id": "ldnuNilP"
+  },
+  {
+    "nome": "V-Varen Nagasaki",
+    "pais": "JAPAN",
+    "link": "/v-varen-nagasaki/hl74HAcF",
+    "id": "hl74HAcF"
+  },
+  {
+    "nome": "Albirex Niigata",
+    "pais": "JAPAN",
+    "link": "/albirex-niigata/CAwa47eB",
+    "id": "CAwa47eB"
+  },
+  {
+    "nome": "Kanazawa",
+    "pais": "JAPAN",
+    "link": "/kanazawa/KY7LrA6d",
+    "id": "KY7LrA6d"
+  },
+  {
+    "nome": "Kofu",
+    "pais": "JAPAN",
+    "link": "/kofu/4IyNxjsg",
+    "id": "4IyNxjsg"
+  },
+  {
+    "nome": "Kusatsu",
+    "pais": "JAPAN",
+    "link": "/thespakusatsu-gunma/UFZb6lCI",
+    "id": "UFZb6lCI"
+  },
+  {
+    "nome": "Oita Trinita",
+    "pais": "JAPAN",
+    "link": "/oita-trinita/Q17PNMnc",
+    "id": "Q17PNMnc"
+  },
+  {
+    "nome": "Omiya Ardija",
+    "pais": "JAPAN",
+    "link": "/omiya-ardija/OErJ0IVR",
+    "id": "OErJ0IVR"
+  },
+  {
+    "nome": "Okayama",
+    "pais": "JAPAN",
+    "link": "/okayama/vDpqgnYn",
+    "id": "vDpqgnYn"
+  },
+  {
+    "nome": "Mito",
+    "pais": "JAPAN",
+    "link": "/mito/GliRsh4P",
+    "id": "GliRsh4P"
+  },
+  {
+    "nome": "Renofa Yamaguchi",
+    "pais": "JAPAN",
+    "link": "/renofa-yamaguchi/f1DPrs5c",
+    "id": "f1DPrs5c"
+  },
+  {
+    "nome": "Machida",
+    "pais": "JAPAN",
+    "link": "/machida-zelvia/CUSC1dab",
+    "id": "CUSC1dab"
+  },
+  {
+    "nome": "Tokushima",
+    "pais": "JAPAN",
+    "link": "/tokushima/IcwgwCCt",
+    "id": "IcwgwCCt"
+  },
+  {
+    "nome": "Chiba",
+    "pais": "JAPAN",
+    "link": "/chiba/zNLhJb1S",
+    "id": "zNLhJb1S"
+  },
+  {
+    "nome": "Verdy",
+    "pais": "JAPAN",
+    "link": "/verdy/ppNYGTQb",
+    "id": "ppNYGTQb"
+  },
+  {
+    "nome": "Vegalta Sendai",
+    "pais": "JAPAN",
+    "link": "/vegalta-sendai/lSW1nlRB",
+    "id": "lSW1nlRB"
+  },
+  {
+    "nome": "Yokohama FC",
+    "pais": "JAPAN",
+    "link": "/yokohama-fc/OlLWoSeO",
+    "id": "OlLWoSeO"
+  },
+  {
+    "nome": "Kumamoto",
+    "pais": "JAPAN",
+    "link": "/kumamoto/ARlzJ8RO",
+    "id": "ARlzJ8RO"
+  },
+  {
+    "nome": "Tochigi",
+    "pais": "JAPAN",
+    "link": "/tochigi/rcqppiCl",
+    "id": "rcqppiCl"
+  },
+  {
+    "nome": "Montedio Yamagata",
+    "pais": "JAPAN",
+    "link": "/montedio-yamagata/2uKzonBU",
+    "id": "2uKzonBU"
+  },
+  {
+    "nome": "Azul Claro Numazu",
+    "pais": "JAPAN",
+    "link": "/azul-claro-numazu/K8znKTMa",
+    "id": "K8znKTMa"
+  },
+  {
+    "nome": "Nagano",
+    "pais": "JAPAN",
+    "link": "/nagano-parceiro/4UgFVol8",
+    "id": "4UgFVol8"
+  },
+  {
+    "nome": "Fujieda MYFC",
+    "pais": "JAPAN",
+    "link": "/fujieda-myfc/jFPWWTQn",
+    "id": "jFPWWTQn"
+  },
+  {
+    "nome": "Gifu",
+    "pais": "JAPAN",
+    "link": "/gifu/QRxJwWRn",
+    "id": "QRxJwWRn"
+  },
+  {
+    "nome": "Kamatamare",
+    "pais": "JAPAN",
+    "link": "/kamatamare-sanuki/S6HnxZqN",
+    "id": "S6HnxZqN"
+  },
+  {
+    "nome": "Imabari",
+    "pais": "JAPAN",
+    "link": "/imabari/0fQDWIvJ",
+    "id": "0fQDWIvJ"
+  },
+  {
+    "nome": "Yamaga",
+    "pais": "JAPAN",
+    "link": "/matsumoto-yamaga/0lMXpXdr",
+    "id": "0lMXpXdr"
+  },
+  {
+    "nome": "Giravanz Kitakyushu",
+    "pais": "JAPAN",
+    "link": "/giravanz-kitakyushu/00Cp2KYP",
+    "id": "00Cp2KYP"
+  },
+  {
+    "nome": "Fukushima Utd",
+    "pais": "JAPAN",
+    "link": "/fukushima-united/KSReC3sk",
+    "id": "KSReC3sk"
+  },
+  {
+    "nome": "Iwaki",
+    "pais": "JAPAN",
+    "link": "/iwaki/Mi3WmBrD",
+    "id": "Mi3WmBrD"
+  },
+  {
+    "nome": "Breda",
+    "pais": "NETHERLANDS",
+    "link": "/breda/nLNrHc14",
+    "id": "nLNrHc14"
+  },
+  {
+    "nome": "Almere City",
+    "pais": "NETHERLANDS",
+    "link": "/almere-city/IsK0b0aI",
+    "id": "IsK0b0aI"
+  },
+  {
+    "nome": "Den Haag",
+    "pais": "NETHERLANDS",
+    "link": "/den-haag/lAgLCkT3",
+    "id": "lAgLCkT3"
+  },
+  {
+    "nome": "Oss",
+    "pais": "NETHERLANDS",
+    "link": "/top-oss/40amSqFn",
+    "id": "40amSqFn"
+  },
+  {
+    "nome": "Eindhoven FC",
+    "pais": "NETHERLANDS",
+    "link": "/eindhoven-fc/YJaj0Opm",
+    "id": "YJaj0Opm"
+  },
+  {
+    "nome": "Venlo",
+    "pais": "NETHERLANDS",
+    "link": "/venlo/UNA6IKFC",
+    "id": "UNA6IKFC"
+  },
+  {
+    "nome": "Graafschap",
+    "pais": "NETHERLANDS",
+    "link": "/de-graafschap/naL1J006",
+    "id": "naL1J006"
+  },
+  {
+    "nome": "Willem II",
+    "pais": "NETHERLANDS",
+    "link": "/willem-ii/6u3qag0G",
+    "id": "6u3qag0G"
+  },
+  {
+    "nome": "Helmond",
+    "pais": "NETHERLANDS",
+    "link": "/helmond-sport/SQGBcMU5",
+    "id": "SQGBcMU5"
+  },
+  {
+    "nome": "Den Bosch",
+    "pais": "NETHERLANDS",
+    "link": "/den-bosch/4IzxgrNP",
+    "id": "4IzxgrNP"
+  },
+  {
+    "nome": "Heracles",
+    "pais": "NETHERLANDS",
+    "link": "/heracles/bB3JbZpA",
+    "id": "bB3JbZpA"
+  },
+  {
+    "nome": "Dordrecht",
+    "pais": "NETHERLANDS",
+    "link": "/dordrecht/fT0n14Vt",
+    "id": "fT0n14Vt"
+  },
+  {
+    "nome": "Telstar",
+    "pais": "NETHERLANDS",
+    "link": "/telstar/Aw0qTPat",
+    "id": "Aw0qTPat"
+  },
+  {
+    "nome": "Maastricht",
+    "pais": "NETHERLANDS",
+    "link": "/maastricht/YPQnAtpC",
+    "id": "YPQnAtpC"
+  },
+  {
+    "nome": "Gudja",
+    "pais": "MALTA",
+    "link": "/gudja/fL7ONd6B",
+    "id": "fL7ONd6B"
+  },
+  {
+    "nome": "Mosta",
+    "pais": "MALTA",
+    "link": "/mosta-fc/htCyNMwL",
+    "id": "htCyNMwL"
+  },
+  {
+    "nome": "Marsaxlokk",
+    "pais": "MALTA",
+    "link": "/marsaxlokk/6LJg5A2T",
+    "id": "6LJg5A2T"
+  },
+  {
+    "nome": "Hamrun",
+    "pais": "MALTA",
+    "link": "/hamrun/0EeKzT9a",
+    "id": "0EeKzT9a"
+  },
+  {
+    "nome": "Birmingham",
+    "pais": "ENGLAND",
+    "link": "/birmingham/SWk4muv7",
+    "id": "SWk4muv7"
+  },
+  {
+    "nome": "Reading",
+    "pais": "ENGLAND",
+    "link": "/reading/EmlVDpVP",
+    "id": "EmlVDpVP"
+  },
+  {
+    "nome": "Concarneau",
+    "pais": "FRANCE",
+    "link": "/concarneau/Uo57pG95",
+    "id": "Uo57pG95"
+  },
+  {
+    "nome": "Le Puy-en-Velay",
+    "pais": "FRANCE",
+    "link": "/le-puy-en-velay/xnng4dGk",
+    "id": "xnng4dGk"
+  },
+  {
+    "nome": "Tenerife",
+    "pais": "SPAIN",
+    "link": "/tenerife/IHv6nz80",
+    "id": "IHv6nz80"
+  },
+  {
+    "nome": "Andorra",
+    "pais": "SPAIN",
+    "link": "/fc-andorra/O6ucWgAa",
+    "id": "O6ucWgAa"
+  },
+  {
+    "nome": "Manchester Utd",
+    "pais": "ENGLAND",
+    "link": "/manchester-united/ppjDR086",
+    "id": "ppjDR086"
+  },
+  {
+    "nome": "Nottingham",
+    "pais": "ENGLAND",
+    "link": "/nottingham/UsushcZr",
+    "id": "UsushcZr"
+  },
+  {
+    "nome": "St. Truiden",
+    "pais": "BELGIUM",
+    "link": "/st-truiden/d2EjBxMM",
+    "id": "d2EjBxMM"
+  },
+  {
+    "nome": "Waregem",
+    "pais": "BELGIUM",
+    "link": "/waregem/jPDfAdyT",
+    "id": "jPDfAdyT"
+  },
+  {
+    "nome": "Westerlo",
+    "pais": "BELGIUM",
+    "link": "/westerlo/hYaM5Gqp",
+    "id": "hYaM5Gqp"
+  },
+  {
+    "nome": "Antwerp",
+    "pais": "BELGIUM",
+    "link": "/antwerp/rVpPxw8H",
+    "id": "rVpPxw8H"
+  },
+  {
+    "nome": "U.A.N.L.- Tigres",
+    "pais": "MEXICO",
+    "link": "/u-a-n-l-tigres/Iy4albIC",
+    "id": "Iy4albIC"
+  },
+  {
+    "nome": "Santos Laguna",
+    "pais": "MEXICO",
+    "link": "/santos-laguna/EBPEFrRQ",
+    "id": "EBPEFrRQ"
+  },
+  {
+    "nome": "Cruz Azul",
+    "pais": "MEXICO",
+    "link": "/cruz-azul/G8PFBMll",
+    "id": "G8PFBMll"
+  },
+  {
+    "nome": "Club America",
+    "pais": "MEXICO",
+    "link": "/club-america/vyrswtJm",
+    "id": "vyrswtJm"
+  },
+  {
+    "nome": "Ceramica Cleopatra",
+    "pais": "EGYPT",
+    "link": "/ceramica-cleopatra/ATasWtPS",
+    "id": "ATasWtPS"
+  },
+  {
+    "nome": "Al Ahly",
+    "pais": "EGYPT",
+    "link": "/al-ahly/EPsYDm4A",
+    "id": "EPsYDm4A"
+  },
+  {
+    "nome": "FC Porto B",
+    "pais": "PORTUGAL",
+    "link": "/fc-porto/vNt65kUG",
+    "id": "vNt65kUG"
+  },
+  {
+    "nome": "SC Farense",
+    "pais": "PORTUGAL",
+    "link": "/sc-farense/0YgpqHGj",
+    "id": "0YgpqHGj"
+  },
+  {
+    "nome": "Karagumruk",
+    "pais": "TURKEY",
+    "link": "/f-karagumruk/Cv7CWW8n",
+    "id": "Cv7CWW8n"
+  },
+  {
+    "nome": "Trabzonspor",
+    "pais": "TURKEY",
+    "link": "/trabzonspor/MmsYDc03",
+    "id": "MmsYDc03"
+  },
+  {
+    "nome": "Volos",
+    "pais": "GREECE",
+    "link": "/volos/nDZbFBqG",
+    "id": "nDZbFBqG"
+  },
+  {
+    "nome": "AEK Athens FC",
+    "pais": "GREECE",
+    "link": "/aek/ANpZncAM",
+    "id": "ANpZncAM"
+  },
+  {
+    "nome": "Atromitos",
+    "pais": "GREECE",
+    "link": "/atromitos/GAUEFGvM",
+    "id": "GAUEFGvM"
+  },
+  {
+    "nome": "PAOK",
+    "pais": "GREECE",
+    "link": "/paok/Kry6HxA9",
+    "id": "Kry6HxA9"
+  },
+  {
+    "nome": "Union Touarga",
+    "pais": "MOROCCO",
+    "link": "/union-touarga/GKY9yk5c",
+    "id": "GKY9yk5c"
+  },
+  {
+    "nome": "Jeunesse Sportive Soualem",
+    "pais": "MOROCCO",
+    "link": "/jeunesse-sportive-soualem/n7cFBVja",
+    "id": "n7cFBVja"
+  },
+  {
+    "nome": "Mouloudia Oujda",
+    "pais": "MOROCCO",
+    "link": "/mouloudia-oujda/tCsOSlDp",
+    "id": "tCsOSlDp"
+  },
+  {
+    "nome": "Olympique Khouribga",
+    "pais": "MOROCCO",
+    "link": "/olympique-khouribga/0xlJjh5i",
+    "id": "0xlJjh5i"
+  },
+  {
+    "nome": "Portimonense",
+    "pais": "PORTUGAL",
+    "link": "/portimonense/6ecm9Xlr",
+    "id": "6ecm9Xlr"
+  },
+  {
+    "nome": "Casa Pia",
+    "pais": "PORTUGAL",
+    "link": "/casa-pia/QFHt9Zgs",
+    "id": "QFHt9Zgs"
+  },
+  {
+    "nome": "FC Porto",
+    "pais": "PORTUGAL",
+    "link": "/fc-porto/S2NmScGp",
+    "id": "S2NmScGp"
+  },
+  {
+    "nome": "Arouca",
+    "pais": "PORTUGAL",
+    "link": "/arouca/fJqfm7CG",
+    "id": "fJqfm7CG"
+  },
+  {
+    "nome": "Dundee Utd",
+    "pais": "SCOTLAND",
+    "link": "/dundee-utd/8QEB2FFp",
+    "id": "8QEB2FFp"
+  },
+  {
+    "nome": "Ross County",
+    "pais": "SCOTLAND",
+    "link": "/ross-county/vouS5j6r",
+    "id": "vouS5j6r"
+  },
+  {
+    "nome": "Kilmarnock",
+    "pais": "SCOTLAND",
+    "link": "/kilmarnock/jX8ezy7G",
+    "id": "jX8ezy7G"
+  },
+  {
+    "nome": "Aberdeen",
+    "pais": "SCOTLAND",
+    "link": "/aberdeen/AmdbMiWq",
+    "id": "AmdbMiWq"
+  },
+  {
+    "nome": "Livingston",
+    "pais": "SCOTLAND",
+    "link": "/livingston/MoYV5dic",
+    "id": "MoYV5dic"
+  },
+  {
+    "nome": "St. Mirren",
+    "pais": "SCOTLAND",
+    "link": "/st-mirren/tAVXZEyT",
+    "id": "tAVXZEyT"
+  },
+  {
+    "nome": "Rangers",
+    "pais": "SCOTLAND",
+    "link": "/rangers/8vAWQXNS",
+    "id": "8vAWQXNS"
+  },
+  {
+    "nome": "Motherwell",
+    "pais": "SCOTLAND",
+    "link": "/motherwell/YuW7ZfMM",
+    "id": "YuW7ZfMM"
+  },
+  {
+    "nome": "St Johnstone",
+    "pais": "SCOTLAND",
+    "link": "/st-johnstone/ULK83EjM",
+    "id": "ULK83EjM"
+  },
+  {
+    "nome": "Hearts",
+    "pais": "SCOTLAND",
+    "link": "/hearts/0rGrwwNc",
+    "id": "0rGrwwNc"
+  },
+  {
+    "nome": "Hibernian",
+    "pais": "SCOTLAND",
+    "link": "/hibernian/f5Fnxcx4",
+    "id": "f5Fnxcx4"
+  },
+  {
+    "nome": "Celtic",
+    "pais": "SCOTLAND",
+    "link": "/celtic/QFKRRD8M",
+    "id": "QFKRRD8M"
+  },
+  {
+    "nome": "Leeds",
+    "pais": "ENGLAND",
+    "link": "/leeds/tUxUbLR2",
+    "id": "tUxUbLR2"
+  },
+  {
+    "nome": "Manchester City",
+    "pais": "ENGLAND",
+    "link": "/manchester-city/Wtn9Stg0",
+    "id": "Wtn9Stg0"
+  },
+  {
+    "nome": "Brest",
+    "pais": "FRANCE",
+    "link": "/brest/Cr4VGaUl",
+    "id": "Cr4VGaUl"
+  },
+  {
+    "nome": "Lyon",
+    "pais": "FRANCE",
+    "link": "/lyon/2akflumR",
+    "id": "2akflumR"
+  },
+  {
+    "nome": "Paris SG",
+    "pais": "FRANCE",
+    "link": "/paris-sg/CjhkPw0k",
+    "id": "CjhkPw0k"
+  },
+  {
+    "nome": "Strasbourg",
+    "pais": "FRANCE",
+    "link": "/strasbourg/nP6UzIU1",
+    "id": "nP6UzIU1"
+  },
+  {
+    "nome": "Chabab Mohammedia",
+    "pais": "MOROCCO",
+    "link": "/chabab-mohammedia/vkhbxFLo",
+    "id": "vkhbxFLo"
+  },
+  {
+    "nome": "Olympique de Safi",
+    "pais": "MOROCCO",
+    "link": "/olympique-de-safi/fFoSR8Sj",
+    "id": "fFoSR8Sj"
+  },
+  {
+    "nome": "FAR Rabat",
+    "pais": "MOROCCO",
+    "link": "/far-rabat/CMn7Clai",
+    "id": "CMn7Clai"
+  },
+  {
+    "nome": "Wydad",
+    "pais": "MOROCCO",
+    "link": "/wydad-athletic/2yuuwjkA",
+    "id": "2yuuwjkA"
+  },
+  {
+    "nome": "Difaa El Jadidi",
+    "pais": "MOROCCO",
+    "link": "/difaa-el-jadidi/Iui2yZzh",
+    "id": "Iui2yZzh"
+  },
+  {
+    "nome": "FUS Rabat",
+    "pais": "MOROCCO",
+    "link": "/fus-rabat/zP99MHKe",
+    "id": "zP99MHKe"
+  },
+  {
+    "nome": "Sivasspor",
+    "pais": "TURKEY",
+    "link": "/sivasspor/OvblvwLr",
+    "id": "OvblvwLr"
+  },
+  {
+    "nome": "Galatasaray",
+    "pais": "TURKEY",
+    "link": "/galatasaray/riaqqurF",
+    "id": "riaqqurF"
+  },
+  {
+    "nome": "Lorient",
+    "pais": "FRANCE",
+    "link": "/lorient/jgNAYRGi",
+    "id": "jgNAYRGi"
+  },
+  {
+    "nome": "Montpellier",
+    "pais": "FRANCE",
+    "link": "/montpellier/Eyf00syR",
+    "id": "Eyf00syR"
+  },
+  {
+    "nome": "Reims",
+    "pais": "FRANCE",
+    "link": "/reims/tItR6sEf",
+    "id": "tItR6sEf"
+  },
+  {
+    "nome": "Rennes",
+    "pais": "FRANCE",
+    "link": "/rennes/d2nnj1IE",
+    "id": "d2nnj1IE"
+  },
+  {
+    "nome": "Marseille",
+    "pais": "FRANCE",
+    "link": "/marseille/SblU3Hee",
+    "id": "SblU3Hee"
+  },
+  {
+    "nome": "Toulouse",
+    "pais": "FRANCE",
+    "link": "/toulouse/MLmY2yB1",
+    "id": "MLmY2yB1"
+  },
+  {
+    "nome": "Nice",
+    "pais": "FRANCE",
+    "link": "/nice/YagoQJpq",
+    "id": "YagoQJpq"
+  },
+  {
+    "nome": "Lens",
+    "pais": "FRANCE",
+    "link": "/lens/IBmris38",
+    "id": "IBmris38"
+  },
+  {
+    "nome": "Girona",
+    "pais": "SPAIN",
+    "link": "/girona/nNNpcUSL",
+    "id": "nNNpcUSL"
+  },
+  {
+    "nome": "Rayo Vallecano",
+    "pais": "SPAIN",
+    "link": "/rayo-vallecano/8bcjFy6O",
+    "id": "8bcjFy6O"
+  },
+  {
+    "nome": "Betis",
+    "pais": "SPAIN",
+    "link": "/betis/vJbTeCGP",
+    "id": "vJbTeCGP"
+  },
+  {
+    "nome": "Ath Bilbao",
+    "pais": "SPAIN",
+    "link": "/ath-bilbao/IP5zl0cJ",
+    "id": "IP5zl0cJ"
+  },
+  {
+    "nome": "Gil Vicente",
+    "pais": "PORTUGAL",
+    "link": "/gil-vicente/CS0fFFd8",
+    "id": "CS0fFFd8"
+  },
+  {
+    "nome": "Santa Clara",
+    "pais": "PORTUGAL",
+    "link": "/santa-clara/YmQyLBJf",
+    "id": "YmQyLBJf"
+  },
+  {
+    "nome": "Estoril",
+    "pais": "PORTUGAL",
+    "link": "/estoril/htoKuYZl",
+    "id": "htoKuYZl"
+  },
+  {
+    "nome": "Boavista",
+    "pais": "PORTUGAL",
+    "link": "/boavista/n5XEAYKe",
+    "id": "n5XEAYKe"
+  },
+  {
+    "nome": "Sporting CP",
+    "pais": "PORTUGAL",
+    "link": "/sporting-lisbon/tljXuHBC",
+    "id": "tljXuHBC"
+  },
+  {
+    "nome": "Pacos Ferreira",
+    "pais": "PORTUGAL",
+    "link": "/pacos-ferreira/hxT1f5xa",
+    "id": "hxT1f5xa"
+  },
+  {
+    "nome": "BSAD",
+    "pais": "PORTUGAL",
+    "link": "/bsad/fyrUnmpP",
+    "id": "fyrUnmpP"
+  },
+  {
+    "nome": "Leixoes",
+    "pais": "PORTUGAL",
+    "link": "/leixoes/jPr7ndS8",
+    "id": "jPr7ndS8"
+  },
+  {
+    "nome": "Nacional",
+    "pais": "PORTUGAL",
+    "link": "/nacional/4ETLrR7n",
+    "id": "4ETLrR7n"
+  },
+  {
+    "nome": "Benfica B",
+    "pais": "PORTUGAL",
+    "link": "/benfica/Spbrn1Te",
+    "id": "Spbrn1Te"
+  },
+  {
+    "nome": "Blackburn",
+    "pais": "ENGLAND",
+    "link": "/blackburn/6Nl8nagD",
+    "id": "6Nl8nagD"
+  },
+  {
+    "nome": "Middlesbrough",
+    "pais": "ENGLAND",
+    "link": "/middlesbrough/6F0lvLNC",
+    "id": "6F0lvLNC"
+  },
+  {
+    "nome": "Huddersfield",
+    "pais": "ENGLAND",
+    "link": "/huddersfield/xxxpBZl2",
+    "id": "xxxpBZl2"
+  },
+  {
+    "nome": "Rotherham",
+    "pais": "ENGLAND",
+    "link": "/rotherham/KMfM7P4b",
+    "id": "KMfM7P4b"
+  },
+  {
+    "nome": "Millwall",
+    "pais": "ENGLAND",
+    "link": "/millwall/6uz2cJBL",
+    "id": "6uz2cJBL"
+  },
+  {
+    "nome": "Bristol City",
+    "pais": "ENGLAND",
+    "link": "/bristol-city/MahqU27I",
+    "id": "MahqU27I"
+  },
+  {
+    "nome": "Wigan",
+    "pais": "ENGLAND",
+    "link": "/wigan/MgHlK2Na",
+    "id": "MgHlK2Na"
+  },
+  {
+    "nome": "Sunderland",
+    "pais": "ENGLAND",
+    "link": "/sunderland/WSzc94ws",
+    "id": "WSzc94ws"
+  },
+  {
+    "nome": "West Brom",
+    "pais": "ENGLAND",
+    "link": "/west-brom/CCBWpzjj",
+    "id": "CCBWpzjj"
+  },
+  {
+    "nome": "Preston",
+    "pais": "ENGLAND",
+    "link": "/preston/x8IDVcbi",
+    "id": "x8IDVcbi"
+  },
+  {
+    "nome": "Blackpool",
+    "pais": "ENGLAND",
+    "link": "/blackpool/8EFIJthC",
+    "id": "8EFIJthC"
+  },
+  {
+    "nome": "Sheffield Utd",
+    "pais": "ENGLAND",
+    "link": "/sheffield-utd/MeKPSerA",
+    "id": "MeKPSerA"
+  },
+  {
+    "nome": "Cadiz CF",
+    "pais": "SPAIN",
+    "link": "/cadiz/hdWjLJUJ",
+    "id": "hdWjLJUJ"
+  },
+  {
+    "nome": "Almeria",
+    "pais": "SPAIN",
+    "link": "/almeria/nF2Vy2D0",
+    "id": "nF2Vy2D0"
+  },
+  {
+    "nome": "Celta Vigo",
+    "pais": "SPAIN",
+    "link": "/celta-vigo/8pvUZFhf",
+    "id": "8pvUZFhf"
+  },
+  {
+    "nome": "Sevilla",
+    "pais": "SPAIN",
+    "link": "/sevilla/h8oAv4Ts",
+    "id": "h8oAv4Ts"
+  },
+  {
+    "nome": "Bordeaux",
+    "pais": "FRANCE",
+    "link": "/bordeaux/SKc9FeQ7",
+    "id": "SKc9FeQ7"
+  },
+  {
+    "nome": "Sochaux",
+    "pais": "FRANCE",
+    "link": "/sochaux/jPojkLXK",
+    "id": "jPojkLXK"
+  },
+  {
+    "nome": "St Etienne",
+    "pais": "FRANCE",
+    "link": "/st-etienne/YL2QybFe",
+    "id": "YL2QybFe"
+  },
+  {
+    "nome": "Caen",
+    "pais": "FRANCE",
+    "link": "/caen/GjLn2QoH",
+    "id": "GjLn2QoH"
+  },
+  {
+    "nome": "Annecy",
+    "pais": "FRANCE",
+    "link": "/annecy/25dB6Eto",
+    "id": "25dB6Eto"
+  },
+  {
+    "nome": "Nimes",
+    "pais": "FRANCE",
+    "link": "/nimes/pOtlc1qr",
+    "id": "pOtlc1qr"
+  },
+  {
+    "nome": "Bastia",
+    "pais": "FRANCE",
+    "link": "/bastia/AZwK8L6R",
+    "id": "AZwK8L6R"
+  },
+  {
+    "nome": "Valenciennes",
+    "pais": "FRANCE",
+    "link": "/valenciennes/O8dsB372",
+    "id": "O8dsB372"
+  },
+  {
+    "nome": "Guingamp",
+    "pais": "FRANCE",
+    "link": "/guingamp/QDfKl36E",
+    "id": "QDfKl36E"
+  },
+  {
+    "nome": "Quevilly Rouen",
+    "pais": "FRANCE",
+    "link": "/quevilly/fPCzUHN1",
+    "id": "fPCzUHN1"
+  },
+  {
+    "nome": "Laval",
+    "pais": "FRANCE",
+    "link": "/laval/E1wDrLsJ",
+    "id": "E1wDrLsJ"
+  },
+  {
+    "nome": "Amiens",
+    "pais": "FRANCE",
+    "link": "/amiens-sc/lKkBAsxF",
+    "id": "lKkBAsxF"
+  },
+  {
+    "nome": "Niort",
+    "pais": "FRANCE",
+    "link": "/niort/SW30dLbl",
+    "id": "SW30dLbl"
+  },
+  {
+    "nome": "Pau FC",
+    "pais": "FRANCE",
+    "link": "/pau/6NOhR4cm",
+    "id": "6NOhR4cm"
+  },
+  {
+    "nome": "Paris FC",
+    "pais": "FRANCE",
+    "link": "/paris-fc/0OEHEprs",
+    "id": "0OEHEprs"
+  },
+  {
+    "nome": "Le Havre",
+    "pais": "FRANCE",
+    "link": "/le-havre/CIEe04GT",
+    "id": "CIEe04GT"
+  },
+  {
+    "nome": "Rodez",
+    "pais": "FRANCE",
+    "link": "/rodez/0pOdQOCg",
+    "id": "0pOdQOCg"
+  },
+  {
+    "nome": "Dijon",
+    "pais": "FRANCE",
+    "link": "/dijon/dIvQQaE7",
+    "id": "dIvQQaE7"
+  },
+  {
+    "nome": "Cape Town City",
+    "pais": "SOUTH AFRICA",
+    "link": "/cape-town-city/l8K0DYSm",
+    "id": "l8K0DYSm"
+  },
+  {
+    "nome": "Royal AM",
+    "pais": "SOUTH AFRICA",
+    "link": "/royal-am/GC2uQIhs",
+    "id": "GC2uQIhs"
+  },
+  {
+    "nome": "Stellenbosch",
+    "pais": "SOUTH AFRICA",
+    "link": "/stellenbosch-fc/fJsWcA5b",
+    "id": "fJsWcA5b"
+  },
+  {
+    "nome": "Chippa Utd.",
+    "pais": "SOUTH AFRICA",
+    "link": "/chippa-utd/AiZa0UPS",
+    "id": "AiZa0UPS"
+  },
+  {
+    "nome": "Maritzburg Utd",
+    "pais": "SOUTH AFRICA",
+    "link": "/maritzburg-utd/jVI6SFig",
+    "id": "jVI6SFig"
+  },
+  {
+    "nome": "TS Galaxy",
+    "pais": "SOUTH AFRICA",
+    "link": "/ts-galaxy/KUDSx8jo",
+    "id": "KUDSx8jo"
+  },
+  {
+    "nome": "Supersport Utd",
+    "pais": "SOUTH AFRICA",
+    "link": "/supersport-utd/dWPcUyNt",
+    "id": "dWPcUyNt"
+  },
+  {
+    "nome": "Marumo Gallants",
+    "pais": "SOUTH AFRICA",
+    "link": "/marumo-gallants/Gnghzo3C",
+    "id": "Gnghzo3C"
+  },
+  {
+    "nome": "Itabuna",
+    "pais": "BRASIL",
+    "link": "/itabuna/fTJdfC4s/",
+    "id": "fTJdfC4s"
+  },
+  {
+    "nome": "Jacuipense",
+    "pais": "BRASIL",
+    "link": "/jacuipense/MResdxxf/",
+    "id": "MResdxxf"
+  },
+  {
+    "nome": "Globo",
+    "pais": "BRASIL",
+    "link": "/globo-fc/WKVb0Xz2/",
+    "id": "WKVb0Xz2"
+  },
+  {
+    "nome": "América-RN",
+    "pais": "BRASIL",
+    "link": "/america-rn/IoDnSKcq/",
+    "id": "IoDnSKcq"
   }
 ]

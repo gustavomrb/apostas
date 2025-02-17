@@ -3,7 +3,7 @@ import fs from "fs";
 
 (async () => {
   const browser = await puppeteer.launch({ headless: false });
-  const page = await browser.newPage();
+  const page = await (await browser.createIncognitoBrowserContext()).newPage();
 
   await page.goto("https://www.nba.com/players");
   await page.waitForSelector(".players-list");
@@ -11,7 +11,9 @@ import fs from "fs";
 
   let jogadores = [];
 
-  let ultimaPagina = await page.$eval(".Pagination_content__30uR3 option:last-child", (n) => parseInt(n.innerText));
+  let ultimaPagina = await page.$eval("select[title='Page Number Selection Drown Down List'] option:last-child", (n) =>
+    parseInt(n.innerText)
+  );
   let botaoProximaPagina = await page.$("button[title='Next Page Button']");
 
   for (let i = 0; i < ultimaPagina; i++) {

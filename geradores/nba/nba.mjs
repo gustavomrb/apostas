@@ -14,6 +14,7 @@ import _ from "lodash";
 import moment from "moment-timezone";
 
 const jogadoresLinks = JSON.parse(fs.readFileSync("./geradores/nba/jogadoresComId.json"));
+const defenseVsPosition = JSON.parse(fs.readFileSync("./geradores/nba/defenseVsPosition.json"));
 let jogosDoDia = [];
 try {
   jogosDoDia = fs.readFileSync("C:\\Users\\Gustavo\\Documents\\Projects\\apostas-nba-react\\src\\jogosDoDia.json");
@@ -25,12 +26,14 @@ try {
 }
 
 (async () => {
-  const idJogos = [108707, 108709];
+  const idJogos = [205533, 205534, 205535];
   for (let idJogo of idJogos) {
     let jogoAnterior = jogosDoDia.find((j) => j.id === idJogo);
     const jogo = jogoAnterior ? jogoAnterior : {};
     const jogoJson = await obterJogo(idJogo);
-    if (jogoJson.player_props) {
+    const propsJson = await obterProps(idJogo);
+    let jogadores = [];
+    if (jogoJson && propsJson) {
       jogo.id = idJogo;
       jogo.times = [
         timesNBA.find((t) => t.nome === jogoJson.teams[0].full_name),
@@ -41,20 +44,30 @@ try {
       jogo.mercado = {};
       jogo.mercado.playerProps = [];
       jogo.playerStats = jogoAnterior ? jogoAnterior.playerStats : [];
-      for (let playerPropJson of jogoJson.player_props) {
-        const propertyName = propNames[playerPropJson.custom_pick_type_display_name];
-        if (propertyName !== "dd2" && propertyName !== "td3") {
-          let playerProp = jogo.mercado.playerProps.find((p) => p.nome === propertyName);
-          if (!playerProp) {
-            playerProp = { nome: propertyName, jogadores: [] };
-            jogo.mercado.playerProps.push(playerProp);
+      for (let propPropertyName in propsJson["player_props"]) {
+        const propNameArr = propPropertyName.split("_");
+        const jsonPropName =
+          propNameArr.length === 5
+            ? propNameArr[4]
+            : propNameArr.length === 6
+            ? `${propNameArr[4]}_${propNameArr[5]}`
+            : `${propNameArr[4]}_${propNameArr[5]}_${propNameArr[6]}`;
+        const nbaPropName = propNames[jsonPropName];
+        if (nbaPropName !== "dd2" && nbaPropName !== "td3") {
+          const jogadoresArr = [];
+          for (let playerPropJson of propsJson["player_props"][propPropertyName]) {
+            const propJogador = geraProp(playerPropJson, jogoJson.teams, propsJson["players"], nbaPropName);
+            if (propJogador) {
+              jogadoresArr.push(propJogador);
+              if (!jogadores.find((j) => j.jogador === propJogador.jogador && j.time === propJogador.time)) {
+                jogadores.push({ jogador: propJogador.jogador, time: propJogador.time });
+              }
+            }
           }
-          playerProp.jogadores.push(geraProp(playerPropJson, jogoJson.teams));
+          jogo.mercado.playerProps.push({ nome: nbaPropName, jogadores: jogadoresArr });
         }
       }
       jogo.mercado.playerProps.sort((a, b) => listaProps.indexOf(a.nome) - listaProps.indexOf(b.nome));
-
-      let jogadores = jogo.mercado.playerProps.find((p) => p.nome == "pts").jogadores;
 
       let mediasJogadores = null;
       let buscarMedias = true;
@@ -85,16 +98,24 @@ try {
           let statsJogador = {};
 
           let boxScores = null;
+          let boxScoresUltima = null;
           if (jogoAnterior) {
             const jogadorAnterior = jogoAnterior.playerStats.find((p) => p.jogador === nomeJogador);
-            boxScores = jogadorAnterior ? jogadorAnterior.geral.boxScores : await obterBoxScoresJogador(jogadorId);
+            boxScores = jogadorAnterior
+              ? jogadorAnterior.geral.boxScores
+              : await obterBoxScoresJogador(jogadorId, "2023-24");
+            boxScoresUltima = jogadorAnterior
+              ? jogadorAnterior.geral.boxScoresUltima
+              : await obterBoxScoresJogador(jogadorId, "2022-23");
           } else {
-            boxScores = await obterBoxScoresJogador(jogadorId);
+            boxScores = await obterBoxScoresJogador(jogadorId, "2023-24");
+            boxScoresUltima = await obterBoxScoresJogador(jogadorId, "2022-23");
           }
 
           statsJogador.geral = {};
           statsJogador.geral.medias = mediasJogadores.find((mj) => mj.player_id == jogadorId);
           statsJogador.geral.boxScores = boxScores;
+          statsJogador.geral.boxScoresUltima = boxScoresUltima;
 
           statsJogador.ultimos5 = {};
           statsJogador.ultimos5.geral = {};
@@ -139,32 +160,51 @@ try {
   );
 })();
 
-async function obterJogo(idJogo) {
-  const res = await fetch("https://api.actionnetwork.com/web/v1/games/" + idJogo, geraOptionsAction());
+async function obterProps(idJogo) {
+  const res = await fetch("https://api.actionnetwork.com/web/v1/games/" + idJogo + "/props", geraOptionsAction());
   const json = await res.json();
   return json;
 }
 
-function geraProp(playerPropJson, timesJson) {
-  const time = timesJson.find((t) => t.id === playerPropJson.team_id).abbr;
-  const oddsOver = converterParaDecimal(playerPropJson.lines[0].money);
-  const oddsUnder = converterParaDecimal(playerPropJson.lines[1].money);
+async function obterJogo(idJogo) {
+  const res = await fetch("https://api.actionnetwork.com/web/v1/games/" + idJogo + "/polling", geraOptionsAction());
+  const json = await res.json();
+  return json;
+}
+
+function geraProp(playerPropJson, timesJson, playersJson, propName) {
+  if (!playerPropJson.odds["15"]) return null;
+  const playerJson = playersJson[playerPropJson.player_id];
+  const time = timesJson.find((t) => t.id === playerJson.team_id).abbr;
+  const timeAdversario = timesJson.find((t) => t.id !== playerJson.team_id).abbr;
+  const oddsOver = converterParaDecimal(playerPropJson.odds["15"][0].money);
+  const oddsUnder = converterParaDecimal(playerPropJson.odds["15"][1].money);
+  const gradeOver = playerPropJson.odds["15"][0].grade;
+  const gradeUnder = playerPropJson.odds["15"][1].grade;
+  const jogador = jogadoresLinks.find((j) => playerJson.player_abbr.trim() === j.nome && time === j.time);
+  console.log(playerJson.player_abbr.trim());
+  const rankDefenseVsPosition = defenseVsPosition[propName]
+    ? defenseVsPosition[propName][jogador.posicao].find((d) => d.time === timeAdversario)
+    : null;
 
   return {
-    jogador: jogadoresLinks.find((j) => playerPropJson.player_abbr === j.nome && time === j.time).nomeCompleto,
+    jogador: jogador.nomeCompleto,
     time: time,
-    limite: playerPropJson.lines[0].value,
+    limite: playerPropJson.odds["15"][0].value,
     oddsOver: oddsOver,
     oddsOverImplicita: converterPraProbabilidade(oddsOver),
     oddsUnder: oddsUnder,
     oddsUnderImplicita: converterPraProbabilidade(oddsUnder),
+    gradeOver: gradeOver,
+    gradeUnder: gradeUnder,
+    defenseVsPosition: rankDefenseVsPosition ? `${rankDefenseVsPosition.valor} (${rankDefenseVsPosition.rank})` : null,
   };
 }
 
 function geraPropsJogadores(nomeProp, nomeJogador, statsJogador, jogo) {
   let propAtributo = jogo.mercado.playerProps.find((p) => p.nome == nomeProp);
   let propAtributoJogador = propAtributo ? propAtributo.jogadores.find((p) => p.jogador == nomeJogador) : null;
-  if (propAtributoJogador) {
+  if (propAtributoJogador && statsJogador.geral.medias) {
     let numJogos = statsJogador.geral.medias["gp"];
     let propsArr = nomeProp.split(/(?=[A-Z])/);
     propsArr = propsArr.map((p) => p.toLowerCase());
@@ -174,9 +214,14 @@ function geraPropsJogadores(nomeProp, nomeJogador, statsJogador, jogo) {
       (p) => propsArr.reduce((prev, curr) => prev + p[curr], 0) > propAtributoJogador.limite
     ).length;
 
+    const acimaLimiteUltima = statsJogador.geral.boxScoresUltima.filter(
+      (p) => propsArr.reduce((prev, curr) => prev + p[curr], 0) > propAtributoJogador.limite
+    ).length;
+
     const pctAcerto = ((acimaLimite / numJogos) * 100).toFixed(1);
     const pctErro = (100 - pctAcerto).toFixed(1);
     propAtributoJogador.temporada = acimaLimite + "/" + numJogos;
+    propAtributoJogador.temporadaUltima = acimaLimiteUltima + "/" + statsJogador.geral.boxScoresUltima.length;
     propAtributoJogador.diferencaOver = (pctAcerto - propAtributoJogador.oddsOverImplicita).toFixed(2);
     propAtributoJogador.diferencaUnder = (pctErro - propAtributoJogador.oddsUnderImplicita).toFixed(2);
 
@@ -205,7 +250,7 @@ function geraPropsJogadores(nomeProp, nomeJogador, statsJogador, jogo) {
 
 async function obterMediaStatsJogadorTime(timeId) {
   let res = await fetch(
-    "https://stats.nba.com/stats/leaguedashplayerstats?" + geraParametrosNba({ TeamID: timeId }),
+    "https://stats.nba.com/stats/leaguedashplayerstats?" + geraParametrosNba({ Season: "2023-24" }),
     geraOptionsNba()
   );
   let jsonResposta = await res.json();
@@ -246,10 +291,10 @@ async function obterMediaStatsJogadorTime(timeId) {
   return statsJogador;
 }
 
-async function obterBoxScoresJogador(jogadorId) {
+async function obterBoxScoresJogador(jogadorId, season) {
   console.log("Buscou boxscore");
   let res = await fetch(
-    "https://stats.nba.com/stats/playergamelogs?" + geraParametrosNba({ PlayerID: jogadorId }),
+    "https://stats.nba.com/stats/playergamelogs?" + geraParametrosNba({ PlayerID: jogadorId, Season: season }),
     geraOptionsNba()
   );
   let jsonResposta = await res.json();
@@ -286,6 +331,8 @@ async function obterBoxScoresJogador(jogadorId) {
       "pts",
     ]);
   });
+
+  console.log("Terminou boxscore");
 
   return statsJogador;
 }

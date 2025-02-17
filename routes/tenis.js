@@ -12,11 +12,11 @@ router.get("/jogo/:idJogo", function (req, res, next) {
   res.send(jogosTenis.find((j) => j.id === req.params.idJogo));
 });
 
-router.get("/resultados/:linkJogador", function (req, res, next) {
-  let resultadosTime = resultados.find((r) => r.link === req.params.linkJogador).resultados;
+router.get("/resultados/:nomeJogador", function (req, res, next) {
+  let resultadosTime = resultados.find((r) => r.player === req.params.nomeJogador).resultados;
   for (let param in req.query) {
     if (param === "data" && req.query.data) {
-      resultadosTime = resultadosTime.filter((r) => req.query.data.includes(r.data.split("-")[2]));
+      resultadosTime = resultadosTime.filter((r) => req.query.data.includes(r.data.split("‑")[2]));
     } else if (param === "excluiOponente") {
       resultadosTime = resultadosTime.filter((r) => !req.query.excluiOponente.includes(r.oponente));
     } else if (req.query[param]) {

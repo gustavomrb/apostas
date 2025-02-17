@@ -1,0 +1,13 @@
+Temporada - 35/50 - 70% - 0.25
+Ultima Temporada - 50/82 - 60% - 0.05
+Ultimos 10 - 7/10 - 70% - 0.35
+Ultimos 5 - 4/5 - 83% - 0.25
+Opp. Defense Vs Position - 25/30 - 83% - 0.10
+
+0.175 + 0.03 + 0.245 + 0.20 + 0.08 = 0.73
+
+Casa/Fora
+Temporada
+Ultima Temporada
+Ultimos 10
+Ultimos 5
